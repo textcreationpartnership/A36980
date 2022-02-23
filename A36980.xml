@@ -1,0 +1,1185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true and absolute bishop with the converts returne unto him : wherein is also shewed how Christ is our only shepheard, as well as our truest bishop : and also, how lamentable and miserable the condition of those men doth appeare to bee, which are out of Christs fold, out of Christs diocesse / by Nicolas Darton ...</title>
+            <author>Darton, Nicholas, 1603-1649?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 151 KB of XML-encoded text transcribed from 31 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36980</idno>
+            <idno type="STC">Wing D273</idno>
+            <idno type="STC">ESTC R10864</idno>
+            <idno type="EEBO-CITATION">12277104</idno>
+            <idno type="OCLC">ocm 12277104</idno>
+            <idno type="VID">58484</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36980)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58484)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 625:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true and absolute bishop with the converts returne unto him : wherein is also shewed how Christ is our only shepheard, as well as our truest bishop : and also, how lamentable and miserable the condition of those men doth appeare to bee, which are out of Christs fold, out of Christs diocesse / by Nicolas Darton ...</title>
+                  <author>Darton, Nicholas, 1603-1649?</author>
+               </titleStmt>
+               <extent>[10], 51 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Badger for Humphrey Mosley ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: p. 51.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Kingdom of God.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:58484:1"/>
+            <pb facs="tcp:58484:1" rendition="simple:additions"/>
+            <p>The True and Abſolute BISHOP: <hi>With the Converts returne unto Him.</hi>
+            </p>
+            <p>Wherein is alſo shevved hovv CHRIST is our only <hi>SHEPHEARD,</hi> As well as our trueſt <hi>BISHOP;</hi> And alſo, how lamentable and miſerable the condition of thoſe Men doth appeare to bee, which are out of CHRISTS Fold, Or, out of CHRISTS <hi>DIOCESSE.</hi>
+            </p>
+            <p>By NICOLAS DARTON <hi>Minister</hi> of GODS Word, at <hi>KILLESBIE,</hi> in NORTHAMPTON-SHIRE.</p>
+            <q>
+               <bibl>
+                  <hi>HEBR. 7. Ver. 26.</hi>
+               </bibl>
+               <p>For ſuch an High Prieſt became us, who is holy, harmeleſſe, undefiled, ſeparate from ſinners, and made higher then the Heavens.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Tho. Badger,</hi> for <hi>Humphrey Moſley,</hi> and are to bee ſold at his Shop at the PRINCES Armes in <hi>Saint</hi> PAULS <hi>CH<g ref="char:V">Ʋ</g>RCH-YARD.</hi> 1641.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:58484:2"/>
+            <pb facs="tcp:58484:2"/>
+            <head>TO THE RIGHT HONOVRABLE and every way <hi>RELIGIO<g ref="char:V">Ʋ</g>S</hi> LORD; WILLIAM, <hi>Viſcount</hi> SAY and SEALE, Maſter of his <hi>Majesties</hi> Court of <hi>Wards</hi> and <hi>Liveries,</hi> an eſpeciall <hi>Member</hi> for <hi>God</hi> Glory and Great <hi>Britaines</hi> ſafety, amongſt the Right Honourable <hi>Lords</hi> in the High Court of <hi>Parliament</hi> now aſſ mbled; And one of His Majeſties moſt Honourable Privie Councell.</head>
+            <opener>
+               <salute>
+                  <hi>Much Honoured</hi> LORD;</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">L</seg>Et the blisfull ſtreames of <hi>Gods</hi> eternall mercies, run plentifully, through all your Parliamentary deſignes, and others elſe, to make you, as truly proſperous in your Acts of State, as Religious in your intentions for Piety, that's my deſire for you. The next for my ſelfe, is this, that ſome drop of your Ho<g ref="char:EOLhyphen"/>nours
+<pb facs="tcp:58484:3"/> favour, and Clemencie, (how little ſoever) may through your Ho<g ref="char:EOLhyphen"/>nourable acceptance, of this my ſmall tender, fall on me, to make me as truly happy, in the enioyment of ſo great a Patronage, as I am forward in the de<g ref="char:EOLhyphen"/>dication of the ſame, unto your Ho<g ref="char:EOLhyphen"/>nour. True it is, you may wonder, I beg (thus bold) for the latter, eſpeci<g ref="char:EOLhyphen"/>ally being that <hi>I</hi> am ſo farre remote, from your Honours knowledge: but to ſpeak iuſtly, there's no iuſt cauſe of marvaile, for though <hi>I</hi> am a ſtranger to your Perſon, <hi>I</hi> am not to your ver<g ref="char:EOLhyphen"/>tuous practiſes, which make our <hi>He<g ref="char:EOLhyphen"/>miſphere</hi> of Great <hi>Brittaine,</hi> with ad<g ref="char:EOLhyphen"/>miration to be acquainted with you. The booke (<hi>I</hi> confeſſe,) is not wor<g ref="char:EOLhyphen"/>thy your iudicious eye, nor reading, but the <hi>Biſhop</hi> in it, <hi>I</hi> am confident you love with all your heart: ſtraying
+<pb facs="tcp:58484:3"/> ſheep, (<hi>I</hi> have heard) your deſire is, ſhould returne to the fold, imitating here our great <hi>Shepheard,</hi> that makes welcome all the Flock, that come. VVhat you finde amiſſe, in the hand<g ref="char:EOLhyphen"/>ling of the propounded ſubject, w<hi rend="sup">ch</hi> is good, let your love to goodnes par<g ref="char:EOLhyphen"/>don, and what otherwiſe in the raſh attempt, of ſo bold an adventure as this upon your goodneſſe is, let your wounted mildneſſe paſſe by. Great<g ref="char:EOLhyphen"/>neſſe in you (I beleeve) is as pardon<g ref="char:EOLhyphen"/>full as your goodneſſe, for O how ſweetly in you, may both Church and State ſee, how they goe hand in hand together? I dare not ſpeake all I beleeve, of your almoſt unparal<g ref="char:EOLhyphen"/>lell'd pietie, tis enough for me, to ſee it, and to heare it abroad, but for feare of ſuſpition of unpleaſing flattery, to your ſelfe, I dare not ſpeake. VVhat now is to bee ſpoken for the preſent
+<pb facs="tcp:58484:4"/> on my behalfe, hath an <hi>eye</hi> upon your mercy, that you would vouchſafe the ſame, (though undeſerved,) upon the worke and Author. So ſhall <hi>I</hi> that am but even the ſmalleſt of <hi>Chriſts</hi> mi<g ref="char:EOLhyphen"/>niſtry, be encouraged in the painefull worke of the Lord, and endeavour daily, (if not more,) to bring Goates haire, (by no means leſſe) to the buil<g ref="char:EOLhyphen"/>ding of <hi>Gods Temple;</hi> continually morne and evening, as long as I have a day to live, praying heartily, to the <hi>eternal Trinity</hi> for you and yours, that an encreaſe of true honours welfare may abound on your Honourable ſelfe, Your truly vertuous and Reli<g ref="char:EOLhyphen"/>gious <hi>Lady,</hi> and hopefull Progenie here, and that an immortall <hi>Crowne</hi> of endleſſe glory with the communion of Saints through <hi>Ieſus Chriſt,</hi> may be your eternall inheritance hereafter.</p>
+            <closer>
+               <signed>Your Honours Servant in all Humlitie moſt devoted, <hi>NICOLAS DARTON.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:58484:4"/>
+            <head>The Epiſtle to the Reader.</head>
+            <p>
+               <seg rend="decorInit">C</seg>Ourteous and Chriſtian Reader, if the Title Page do pleaſe thee, (as perchance it may,) I am confident then that the enſuing Treatiſe will not diſtaſte at all, becauſe it tenders thee a ſalve for thy ſores, and a remedy for thy ſtraying thoughts. Should now the word <hi>[Epiſcopacy,]</hi> draw a diſlike upon thine affections, or like a blacke cloud darken thine impartiall eſteeme hereof, it is to be feared then, (for the preſent,) that all is not well within thee, for here thou haſt the abſoluteſt, the trueſt, and the moſt perfect <hi>Biſhop</hi> that ever was in all the Chriſtian world, whoſe Dioceſse alſo is from one end of the earth unto the other, and from the Sea unto the worlds end. This is the Metropolitan that governes Heavens Univerſe, and whoſe <hi>[See]</hi> as it is without all contradiction Univerſall, ſo in like manner is his <hi>[EPISCOPACIE]</hi> in all points uncontroleable. This is hee that was called from the Wombe hereunto, and from the bowels of his mother;<note place="margin">
+                  <hi>Iſa.</hi> 49.1. <hi>Zach.</hi> 3.8. <hi>Mal.</hi> 3.1.</note> unto whom all the Yles must liſten, and eke the people from farre; who is the branch of the Lord, and the meſſenger of the Covenant, who is like a refiners fire, and like Fullers ſope, and will purifie the ſons of <hi>LEVI,</hi> (meaning, all the Miniſters of his Word and Sa<g ref="char:EOLhyphen"/>craments by what names or titles ſoever they be called,) and will purge them as Gold and ſilver, that they may offer unto the Lord, an offering in righteouſnes. I write not this now to barke at, or to bite at any in the world, for that Hoſtile and ſcurrilous humour both againſt Gods ſacred houſe, and Eng<g ref="char:EOLhyphen"/>lands Kirk, I leave to our brawling and rayling tongues
+<pb facs="tcp:58484:5"/> wherewithall our times abound, alaſſe and thrice alaſſe, too too much in every ſtreet and corner, nay I had almoſt ſaid, in eve<g ref="char:EOLhyphen"/>ry part and place; ſo that ſhould not the right honourable and bleſſed Parliament out of their heavenly diſpoſitions, forth<g ref="char:EOLhyphen"/>with ſilence the contumelious affronts with irrevocable cen<g ref="char:EOLhyphen"/>ſures, of ſuch black-mouthed Sanballats, as without all queſti<g ref="char:EOLhyphen"/>on the plenitude <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f their gracious judgement and undoubted religious goodneſſe will challenge the care hereof, both Zion then and all her ſonnes may ſit downe in the duſt and weepe. But I write, this [ſcribendo proficere, &amp; proficiendo ſcribere,] to ſatifie the ingenuous reader with ſome notions of a right and abſolute Biſhop, and that upon his benefit and good liking I my ſelfe may receive ſome comfort. As for the matter here debated before thine eyes, (though it doe not come unto thee, in the beautifull and gracefull habit of excellent and learned rhetoricke, yet mayeſt thou finde therein many an wholeſome expreſſion, both for thy ſoules health, and lifes amendment,) I deſire thus much, that as thou doeſt not receive it with the re<g ref="char:EOLhyphen"/>verence of a Father, ſo that thou wouldst not reject it, as the raveries of a child, for <hi>Apollo</hi> yeelded Oracles, as well to poore men, for their prayers, as to Princes, for their preſents. If thou haſt bin a ſtragler, from the flock and fold of Chriſt, here are diſcoveries for to enforme thy conſcience, and ſuch demonstrative Characters, to certifie thee of thy ſoules ſtate, and condition, in that particular, as that thou canſt not (unleſſe meerely blinded, and that God hath given thee over unto a reprobate ſence,) but ſee whether thou art in the fold of Chriſt or not, and whether alſo thy life be the life of grace, or the life of ſin. I ſhall not need to labour thee, in this Epistle, how thou art to demeane thy ſelfe, towards the great <hi>Biſhop</hi> of thy ſoule, for that cannot bee exploded thy meditations, if thou doſt but reade and view the matter; all that I ſhall ad<g ref="char:EOLhyphen"/>viſe thee, in the point propounded, is that with the laborious Bee, thou have a deſire hence to gather honey, and not with the
+<pb facs="tcp:58484:5"/> venemous Spider, to ſucke nought ſave poyſon. The diſcourſe (for any thing I know to the contrary,) may put all the world in minde, what a moſt wretched and a moſt lamentable caſe thoſe extravagant ſinfull ſoules are in, that are out of Chriſts ſeverall, and out of Christs encloſure, ranging up and downe the world, in the wild and vaſt Commons, of all kinde of diſo<g ref="char:EOLhyphen"/>bedience; or elſe (which is as bad,) wandring to and fro, day by day, within the unfortunate pale of ſome particular enor<g ref="char:EOLhyphen"/>mitie. For thine owne part, (my Chriſtian brother,) I cenſure thee not at all; (for I beleeve to bee guilty that way, is an in<g ref="char:EOLhyphen"/>fallible demonstration, and a very brand and Symptome, of a carnall and a ranke hypocrite;) if therefore now thou art any kinde of way the better, for this my ſmall endeavour, bleſse the Biſhop, for it, I meane, the eternall <hi>Meſſias,</hi> who is the great Shepheard and Biſhop of thy ſoule; but if like a taunting Ammonite thou falleſt to malicious cenſurings, against the booke, and Authour, know, tis the Authors reſolution, more lightly to ſet by, and value thy ludibrious taunts, then thou canſt imagine thy diſdainfull nature, to be forward, in the miſ<g ref="char:EOLhyphen"/>chievous broching of the ſame: and beſides that, he hath found out thine abuſive and unchriſtianlike ſarcaſmes, many dayes agon, and that hee is now preparing a ſcourge for thy poyſo<g ref="char:EOLhyphen"/>nous tongue. What thou doſt object now out of an envious diſpoſition, my conſcience tells me, that in the minds of the well affected, it ſhall ſtand for nothing, becauſe they have deter<g ref="char:EOLhyphen"/>min'd at this preſent, that <hi>[dicetur veritas, &amp; rumpetu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in<g ref="char:EOLhyphen"/>vidia,]</hi> that truth ſhall be ſpoken, and that envy ſhall breake its gall. But and if thou canst not abſtaine, from thine irreligi<g ref="char:EOLhyphen"/>ous obloquie, ô be ſure then, that thy formality in religion, is but meere<note n="*" place="margin">
+                  <hi>Iam.</hi> 1.26.</note> mockery, without Religion; and that in concluſion, whereas for a time, thou ſeemeſt to ſet on fire the whole courſe of nature, thou ſhalt at length be ſet on fire, even by the very<note n="*" place="margin">
+                  <hi>Iam.</hi> 3.6.</note> hell it ſelfe. And thus gentle Reader, bidding thee hearti<g ref="char:EOLhyphen"/>ly to take heed, I bid thee heartily farewell.</p>
+            <closer>
+               <signed>NICOLAS DARTON.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:58484:6"/>
+            <pb n="1" facs="tcp:58484:6"/>
+            <head>THE TRVE AND ABSOLVTE BISHOP: The Text of Scripture whereon the following diſcourſe is grounded, is:</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>1 PETER 2.25.</hi>
+                  </bibl>
+                  <p>For you were as ſheepe going aſtray, but are now returned unto the Shepheard, and Biſhop of your ſoules.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He words are an illuſtration of S<hi rend="sup">t</hi>. <hi>Peters</hi> auditors twofold eſtate and condition.</p>
+            <list>
+               <item>Firſt, <hi>Preterit.</hi>
+               </item>
+               <item>Secondly, <hi>Preſent.</hi>
+               </item>
+            </list>
+            <p>Firſt <hi>preterit,</hi> and that in the ſtate of nature, <hi>[eratis velut oves errantes]</hi> you were as Sheep going aſtray, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Sheepe ſtragling from Heaven.</p>
+            <p>Secondly, <hi>preſent,</hi> and that in the ſtate of grace, <hi>[Sed nunc converſi eſtis ad paſtorem &amp; curatorem animarum veſtrarum,]</hi> but are now returned unto the Shepheard, and Biſhop of your ſoules. An happie regreſſe for ſuch wandring ſheepe, being
+<pb n="2" facs="tcp:58484:7"/> returned from <hi>Babel</hi> to <hi>Bethel,</hi> from <hi>Sathan</hi> to CHRIST.</p>
+            <p>
+               <note place="margin">The firſt obſervation.</note>T<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ir fi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> eſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ate i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>entable, being by <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the children of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Ep<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſ.</hi> 2.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ere<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ore paſtly called here by o<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Apo<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <hi>[ev<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> err<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>s]</hi> ſtraying <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eepe, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot <hi>[ove<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> e<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>]</hi> not ſheepe that are in the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>old; for ſo Chriſt calleth his belo<g ref="char:EOLhyphen"/>ved Saints, <hi>Io<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> 10.27, 28. who (as C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>RIST profeſſeth of them there) that he doth know them, ſo doth hee alſo wit<g ref="char:EOLhyphen"/>neſſe of them, that they are obedient ſheepe, and that for three things.</p>
+            <list>
+               <item>Firſt, for hearing his voyce. <hi>Ioh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> 10.27.</item>
+               <item>Sec<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>dly, for following him <hi>Ioh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> 10.27.</item>
+               <item>Thirdly, for keeping the fold.</item>
+            </list>
+            <p>According to that pla<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Scripture, <hi>[nec rapiet quiſquam cas ex manu mea]</hi> As if our Saviour ſhould have ſaid thus as no man ſhall take them out of my hands,<note place="margin">
+                  <hi>Ezek.</hi> 11.20</note> ſo no one ſhall ſeduce them, to ſtraggle from my ſold, <hi>Iohn</hi> 10.28. <hi>hoc est, retinebunt ovile,</hi> they ſhall keepe the ſold, they ſhall keepe my lawes and ordinances.<note place="margin">The ſecond obſervation</note>
+            </p>
+            <p>Secondly, their ſecond eſtate is comfortable, being in the ſtate of grace, and ſeeing they are retu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ned unto the ſold again; They are not now like <hi>[oves in deſerto]</hi> like thoſe ſheepe in the deſart,<note place="margin">
+                  <hi>Prov.</hi> 7.22.</note> that had no ſhepheard, <hi>Marke</hi> 6.32, 34. or like <hi>Salo<g ref="char:EOLhyphen"/>mons</hi> oxe poſting to the ſhambles of moſt diſmall death, but like the Spouſe in the Canticles,<note place="margin">
+                  <hi>Cant.</hi> 4.8.</note> returning to her onely love, look<g ref="char:EOLhyphen"/>ing from <hi>Le<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>on</hi> and <hi>Amana,</hi> from <hi>S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>enir</hi> and <hi>Hermon,</hi> from <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Lions d<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nes and from the mountaines of the Leopards; according alſo to the words of the Text, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>&amp;c</hi> but now are returned to the Shep<g ref="char:EOLhyphen"/>heard and Biſhop of your ſoules.<note place="margin">The diviſi<g ref="char:EOLhyphen"/>on of the words.</note>
+            </p>
+            <p>The words then for diviſions ſake inſtruct us in two points of Divinitie, very conſiderable for our times.</p>
+            <list>
+               <item>1. In mans miſery, living in the ſtate of ſinne.</item>
+               <item>2. In mans recovery, returning to the ſtate of grace.</item>
+            </list>
+            <p>
+               <note place="margin">An <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bſolute and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in<g ref="char:EOLhyphen"/>fall<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e point in Di<g ref="char:EOLhyphen"/>vin<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y.</note>Firſt, in mans miſery living in the ſtate of ſinne, and teach<g ref="char:EOLhyphen"/>ing us in effect this point of Divinitie, [how that unregene<g ref="char:EOLhyphen"/>rate men as long as they are out of the fold of CHRIST, out of the ſold of ſanctity, are no better in the HOLY GHOSTS cenſure, than ſtraying ſheepe,] as here once the
+<pb n="3" facs="tcp:58484:7"/> auditors in the Text are ſhewed alſo <hi>[Vos eratis, &amp;c.]</hi> you were, <hi>&amp;c.</hi>
+            </p>
+            <p>Secondly, the words inſtruct us in mans recovery, intimating unto us thus much, how that our ſtate is never bleſſed t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll we be with Chriſt, our condition never happie till we be returned to Chriſt. Our Apoſtle doth not ſay of them now, they being retired, and return'd to Chriſt,<note place="margin">2 <hi>Pet.</hi> 2.2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> as he doth of others returning to the practice of ſinne, [ſaying <hi>Canis reverſus eſt ad vomitum, &amp; ſus ad volutabrum coeni</hi>] the dogge is return'd to his vomit, and the ſow to her wallowing in the mire. But now as if they were many thouſand times better than before, more holy and pure, more blameleſſe and undefiled, more zealous of good works, he ſaith <hi>[nunc converſi eſtis, &amp;c.]</hi> ye are now returned unto the Shepheard and Biſhop of your ſoules. Where in briefe wee ſee our Saviour for the love he beares to ſinners, be<g ref="char:EOLhyphen"/>comes a Shepheard to his flocke, and a BISHOP in his Dioceſſe; a ſhepheard to feed them, and a Biſhop to inſtruct them; a ſhepheard to tend them, and a Biſhop to defend them; yea, a ſhepheard to take care for their bodies, and a Biſhop to take care for their ſoules; all which wee finde infolded and comprehended in the words [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,] in the words [ſhepheard and Biſhop,] which in our Bleſſed Savi<g ref="char:EOLhyphen"/>our like mercy and truth doe meete together, and like righte<g ref="char:EOLhyphen"/>ouſneſſe and peace doe kiſſe each other.</p>
+            <p>For methods ſake now, having divided the Text thus, and that we may enjoye the whole meaning of the words, we will briefly betake our ſelves to the handling of the ſam<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, be<g ref="char:EOLhyphen"/>ginning with the firſt conſiderable point of divinity, touching mans miſery living in the ſtate of ſinne, and ariſing from the forefront of the Text, thus <hi>[eratis vel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ves errantes, &amp;c.]</hi> ye we<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, <hi>&amp;c.</hi>
+            </p>
+            <p>And for the better and more cleare explanation of this firſt point of divinity, touching mans miſery living in the ſtate of ſinne, and running every day more and more from the fold of Chriſt, take this obſervable, and undeniable ground of truth, <hi>(viz.)</hi>
+            </p>
+            <p>How that all men till that they are effectually called from heaven,<note place="margin">The firſt <hi>Doct.</hi> Vnden<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>able Eph. 5.8.</note> (as here Saint <hi>Peters</hi> auditors in the Text were) till they are called out of darkneſſe into light, out of the ſtate of
+<pb n="4" facs="tcp:58484:8"/> corrupted nature, into the bliſſefull ſtate of grace, are no better in the Holy Ghoſts, cenſure and opinion than ſtraying ſheep, which is a moſt fearefull condition, a moſt horrible and a diſ<g ref="char:EOLhyphen"/>mall ſtate for any poore ſinfull ſoules to be in, being that they are out of Chriſt.</p>
+            <p>
+               <note place="margin">The Doct. proofe.</note>To prove this point, the Prophet <hi>Jſaiah</hi> cryeth out in ge<g ref="char:EOLhyphen"/>nerall tearmes thus, <hi>[omnes ſicut oves aberravimus]</hi> we all like ſheepe have gone aſtray, (meaning all before Gods effectuall calling,<note place="margin">
+                  <hi>Jſa.</hi> 53.6.</note>) yea wee have turned every one to his owne way, ſaith the Prophet, agreeable with that univerſall ſtaine and pollution that the Apoſtle S. <hi>Paul</hi> ſpeakes of, [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>&amp;c.] They are all gone out of the way, they are altogether become unprofitable, there is none that doeth good, no not one, Rom.</hi> 3.12.</p>
+            <p>But here perchance you will demand and aske me by and in what particulars doe unregenerate and unmortified Chriſti<g ref="char:EOLhyphen"/>ans ſhew themſelves before Gods effectuall calling of them,<note place="margin">Ob.</note> to bee ſtraying ſheepe, and wandring from the fold of Chriſt.</p>
+            <p>For the reſolution whereof, obſerve theſe following diſ<g ref="char:EOLhyphen"/>coveries.<note place="margin">Sol.</note>
+            </p>
+            <p>Firſt, unregenerate men runne from the fold of Chriſt like wandring ſheep,<note place="margin">The firſt diſcovery of a ſinner which runs aſtray. 1 <hi>King.</hi> 21.</note> by their unſatiable and greedy avarice, when they doe moſt wickedly thirſt after that which is not their owne, which is not their right nor due, when with <hi>Ahab</hi> they both bloudily and greedily, ſeeke after poore <hi>Naboths.</hi> Vine<g ref="char:EOLhyphen"/>yard, and when with <hi>Demas</hi> they leave the word, and immo<g ref="char:EOLhyphen"/>derately love the world,<note place="margin">2 <hi>Tim.</hi> 4 10</note> and hereupon the Holy Ghoſt calleth their [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] their love of money, (meaning inordinate and inſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tiate deſires, and practiſes) to be [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,] to bee the roote of all evill, which while ſome have coveted after (ſaith the bleſſed Text) they have erred from the faith, (that is) they have ſhewed themſelves ſtraying ſheepe, and have <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ierced themſelves through with many ſorrowes, and theref<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e ſaith Saint <hi>Iohn,</hi>
+               <note place="margin">1 <hi>Tim.</hi> 6.10</note> 
+               <hi>[love not the world, nor the things that are in t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e world: for if any man love the world, the love of the Fa<g ref="char:EOLhyphen"/>ther is not in him,</hi> 1 <hi>Ioh.</hi> 2.14.</p>
+            <p>
+               <note place="margin">The ſecond diſcovery of a ſinner which runs aſtray.</note>Secondly, unmortified Chriſtians before their calling ſhew themſelves to be ſtraying ſheepe and wanderers from Chriſts fold, by their groſſe and erroneous tenents in Divinity, hold<g ref="char:EOLhyphen"/>ing
+<pb n="5" facs="tcp:58484:8"/> thoſe things lawfull, that the Text condemneth, and thoſe againe unlawfull that the text alloweth, and for this cauſe we read of Chriſts condemnation of the <hi>Saduces,</hi> and that they were going aſtray touching their judgment and opinion about the doctrine of the reſurrection, [ſaying <hi>erratis;</hi>] you doe erre, [that is] you ſtraggle from the fold of truth, not know<g ref="char:EOLhyphen"/>ing the Scriptures, nor the power of God.<note place="margin">
+                  <hi>Mat</hi> 22.29 <hi>Ezec.</hi> 18.8. Glomeran<g ref="char:EOLhyphen"/>tur in unum innumerae p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtes Brebi.</note> I could here con<g ref="char:EOLhyphen"/>demne ſundry that are ſtraglers in the like nature; ſome hold<g ref="char:EOLhyphen"/>ing the damned ſinne of uſury to be lawfull, that the text con<g ref="char:EOLhyphen"/>demneth others, that tis a ſinne to take an othe which the text alloweth, a third with the nice ruler of the Synagogue, impu<g ref="char:EOLhyphen"/>dently averring that it is a fault to heale upon the Sabbath day, with infinite others of the like ſtragling humour,<note place="margin">
+                  <hi>Luk</hi> 13 14.</note> to whom I ſay with the Apoſtle S<hi rend="sup">t</hi>. <hi>Iames,</hi> ô do not erre any lon<g ref="char:EOLhyphen"/>ger after theſe courſes, and conditions, my beloved brethren,<note place="margin">
+                  <hi>Jam.</hi> 1.16.</note> 
+               <hi>becauſe the wages of them is death, though the gift of God be eter<g ref="char:EOLhyphen"/>nall life through Ieſus Chriſt our Lord, Rom.</hi> 6.23.<note place="margin">The third and laſt diſ<g ref="char:EOLhyphen"/>covery of a ſinner when hee runneth a<g ref="char:EOLhyphen"/>ſtray.</note>
+            </p>
+            <p>Thirdly and laſtly, unregerate and unmortified Chriſtians before their calling ſhew themſelves to bee ſtraying from the fold of Chriſt ſometimes by their uncleanneſſe and fleſhly luſts, which <hi>Moſes</hi> the man of God calleth [going aſide, <hi>Numb.</hi> 5.12.] ſometimes by ſpirituall whoredomes, as ſuperſtition and Idolatry, which the Holy Ghoſt calleth [a turning away from the Lord, or a thruſting out of the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay,<note place="margin">
+                  <hi>Deut.</hi> 13.5.</note> which the Lord com<g ref="char:EOLhyphen"/>mandeth, ſometimes again by their ſwiniſh ſenſuality and exceſ<g ref="char:EOLhyphen"/>ſive drunkennes, which as the prophet telleth us, cauſeth erring from the right way, and ſtumbling in judgment;<note place="margin">
+                  <hi>Iſa.</hi> 28.7. <hi>Iſa.</hi> 53.6.</note> ſometimes a<g ref="char:EOLhyphen"/>gaine, by their braine ſicke fancies which the Holy Ghoſt cal<g ref="char:EOLhyphen"/>leth [a turning after our owne wayes,] ſometimes againe by their wages of unrighteouſneſſe, their greedy taking of bribes following the way of <hi>Balaam</hi> the ſonne of <hi>Boſor;</hi>
+               <note place="margin">2 <hi>Pet.</hi> 2 15.</note> which the Holy Ghoſt calleth a forſaking of the right way, and ſomtimes againe by withholding the meanes of ſalvation away from others, to whom they ſhould diſpenſe them, which the Holy Ghoſt calleth [a driving away from the ſold, crying againſt the Shepheards of <hi>Jſrael,</hi> and ſaying thus [wo be to you, for the diſeaſed you have not ſtrengthened, neither have you hea<g ref="char:EOLhyphen"/>led that which was ſicke, neither have ye bound up that which was broken, neither have ye brought againe that which was
+<pb n="6" facs="tcp:58484:9"/> driven away,<note place="margin">
+                  <hi>Eze.</hi> 4.2.3 4.</note> neither have <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſought that which was loſt, but with force, and with cruelty have ye ruled them.] And thus doe we ſee in briefe, that by theſe and by diverſe other ſundry wayes and courſes unmortified Chriſtians remaining in the ſtate of corrupted nature, like ſtraying ſheep, doe ever wan<g ref="char:EOLhyphen"/>der and runne away from the fold of Chriſt.</p>
+            <p>The Vſe<note place="margin">The Vſe.</note> that is to be made now of all that hath been ſpo<g ref="char:EOLhyphen"/>ken, is an uſe of illuſtration, to ſhew the lamentableneſſe and accurſedneſſe of the ſtate and condition of thoſe men, who (as hath been ſhewed by the former diſcoveries,) runne away every day more and more from Chriſts fold, and like ſtraying ſheepe keep not company with Chriſts flocke.</p>
+            <p>
+               <note place="margin">There are foure moſt fearefull miſeries wherein appeareth the accurſed condition of a ſtray<g ref="char:EOLhyphen"/>ing ſheep. The firſt miſery of an unrege<g ref="char:EOLhyphen"/>nerate Chri<g ref="char:EOLunhyphen"/>ſtian that runs aſtray. <hi>Impij ſine Cuſtode.</hi>
+               </note>Now their lamentable, miſerable and accurſed condition ap<g ref="char:EOLhyphen"/>peareth ſundry wayes, eſpecially in and by foure moſt grie<g ref="char:EOLhyphen"/>vous and moſt fearefull miſeries.</p>
+            <p>Firſt, unregenerate men which are ſtragling from the fold of Chriſt, that are not as yet reclaimed by Gods effectuall calling, are in a moſt fearefull and curſed condition; becauſe neither <hi>God</hi> nor good men are for them. God doth not protect them, and good men doe not value them. No ſhepheard doth tend or look unto thoſe ſheepe, that are upon the ſtraite, for thoſe that are within the fold, thoſe come within the compaſſe of his care and providence; in like manner for application, is it with all ſuch as wander from Chriſts flock, and that keepe not his ſeve<g ref="char:EOLhyphen"/>rall, they are not <hi>[ſub divino vexillo]</hi> under the protection and banner of the Almighty, but as they give over God, ſo God giveth over them, and that many times as we ſee, to a re<g ref="char:EOLhyphen"/>probate mind to doe, ſuch things as are inconvenient, yea du<g ref="char:EOLhyphen"/>ring the time of their wandring they are ſo miſerable, that they have the very devils themſelves to be their guides and gover<g ref="char:EOLhyphen"/>nours,<note place="margin">
+                  <hi>Rom.</hi> 1.28. <hi>Eph.</hi> 6.12.</note> which is a very fearefull miſery indeed according to the words of the Holy Ghoſt in another place to this very pur<g ref="char:EOLhyphen"/>poſe, they are aliants from the Common-Wealth of <hi>Iſrael,</hi> they are ſtrangers from the covenant of grace,<note place="margin">
+                  <hi>Eph.</hi> 2.12.</note> and of promiſe, hav<g ref="char:EOLhyphen"/>ing no hope, and without GOD and without Chriſt in the world. Next, good men doe not value them, becauſe they are like the linnen Girdle hidden at <hi>Euphrates</hi> and good for no<g ref="char:EOLhyphen"/>thing.<note place="margin">
+                  <hi>Jer.</hi> 13.10. <hi>Iſa.</hi> 13.14.</note> Nay like the chaſed <hi>Roe,</hi> [as the Prophet <hi>Iſaiah</hi> ſaith] and the ſheepe that no man taketh up. Whereas on the con<g ref="char:EOLhyphen"/>trary,
+<pb n="7" facs="tcp:58484:9"/> we may boldly affirme thus much, how that concerning Chriſts innocent Lambes that keepe the fold, they are alwayes of Gods tending, alwayes of Gods looking to. And which comfortable point the Pſalmiſt confirmes thus, ſaying, <hi>the eyes of the Lord are alwayes over them,</hi>
+               <note place="margin">
+                  <hi>Pſal.</hi> 34.15.</note> 
+               <hi>and his eares are alwayes open unto their cries,</hi> yea and they are alwayes ſo tender and preci<g ref="char:EOLhyphen"/>ous in his ſight, as that the Angels are not thought to be too good to bee their guardians, and attendants;<note place="margin">
+                  <hi>Mat</hi> 18.10.</note> nay and thoſe that offend them are ſo threatned by the Spirit of God, as that the Text ſaith of them, and againſt them thus, (namely) <hi>how that it were better for them that a milſtone were hanged ab<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut their neckes, and that they were drowned in the depth of the Sea, Mat.</hi> 18.6. a fearefull judgement GOD wot, yea a moſt grievous penaltie.</p>
+            <p>Secondly,<note place="margin">The ſecond m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſery of an unrege<g ref="char:EOLhyphen"/>nerate Chriſtian that runnes aſtray.</note> the ſecond miſery that our unregenerate livers are expoſed unto, which like ſtraying ſheep ſtraggle from the fold of Chriſt, is a continuall affrightment: or a continuall, feare and a continuall aſtoniſhment; for as the ſilly ſheepe as long as he is aſtray, hath never any perfect peace nor comfort; even ſo for application, fareth it with your unmortified boſomes, who many times when they are in their chiefeſt jollities, are notwithſtanding ſo terribly skared, and frighted as that with drunken <hi>Belſhazzar</hi> their countenances are apt to change,<note place="margin">
+                  <hi>Dan.</hi> 5.6.</note> and their knees to knock together, according to that ſaying of the holy Prophet <hi>Jſaiah,</hi> ſpeaking of them thus alſo,<note place="margin">
+                  <hi>Iſa.</hi> 48.22.</note> (to wit) <hi>they are like the troubled Sea, when it cannot reſt, whoſe waves caſt up mire and dirt, for there is no peace</hi> (ſaith my God) <hi>to the wicked, Iſaiah</hi> 57 20, 21.</p>
+            <p>Thirdly, the third miſery that our ſtraying ſheepe,<note place="margin">The third miſery of an unrege<g ref="char:EOLhyphen"/>nerate man which runs aſtray.</note> our unre<g ref="char:EOLhyphen"/>generate Chriſtians undergoe, is a want of the ſociety of the faithfull, a deprivation of the Communion of Saints. For illuſtrations ſake, the ſheepe that is aſtray, hath not the compa<g ref="char:EOLhyphen"/>pany of the flocke, no more for application hath your unmor<g ref="char:EOLhyphen"/>tified boſome the ſociety and fellowſhip of the Saints, for what fellowſhip ſaith Saint <hi>Paul,</hi>
+               <note place="margin">2 <hi>Cor.</hi> 6 14.15, 16.</note> 
+               <hi>hath righteouſneſſe with unrighteouſ<g ref="char:EOLhyphen"/>neſſe? and what Communion hath light with darkneſſe? or what concord hath Chriſt with Belial?</hi> or what part hath he that be<g ref="char:EOLhyphen"/>leeveth with an Infidell? and what agreement hath the Tem<g ref="char:EOLhyphen"/>ple of God with Idolls? meaning none at all, as if he ſhould
+<pb n="8" facs="tcp:58484:10"/> have ſaid thus, neither unrighteouſneſſe, nor darkneſſe, nor <hi>Be<g ref="char:EOLhyphen"/>liall,</hi> nor an infidell, nor Idolls, have any fellowſhip or om<g ref="char:EOLhyphen"/>munion, or concord, or parte, or agreement, with the bleſſed Shepheard CHRIST or with any that are of his bleſſed flocke.</p>
+            <p>
+               <note place="margin">The fourth and laſt mi<g ref="char:EOLhyphen"/>ſery of an unregene<g ref="char:EOLhyphen"/>rate man running a<g ref="char:EOLhyphen"/>ſtray. <hi>Pſ.</hi> 95 10 11 <hi>Heb</hi> 3.18 1 <hi>Cor.</hi> 6.10</note>Fourthly, the fourth and laſt miſery and plague that unre<g ref="char:EOLhyphen"/>generate ſinners running from Chriſt and his fold, are likely to undergoe, is everlaſting death, they are in danger to provoke God to ſweare that they ſhall never enter into his reſt, that they ſhall never have the joyes of heaven, and that they ſhall never have the comfort of the flocke, whereas on the contrary thoſe that keepe the fold, ſhall have heavens benedictions ac<g ref="char:EOLhyphen"/>cording to the language of our bleſſed Saviour, ſaying <hi>[Ne Timete, &amp;c.] feare not little flocke, for it is your fathers good pleaſure to give you a kingdome,</hi> yea and according to the ſaying of the Prophet <hi>Iſaiah,</hi>
+               <note place="margin">
+                  <hi>Iſa.</hi> 65.13.</note> in this paticular, behold my ſervants ſhall eate, but ye ſhall be hungry; my ſervants ſhall drink, but ye ſhall be thirſtie; behold my ſervants ſhall rejoyce, but ye ſhal bee aſhamed; my ſervants ſhall ſing for joy of heart, but yee ſhall cry for ſorrow of heart, and ſhall howle for vexation of ſpirit.</p>
+            <p>
+               <note place="margin">Ob.</note>But peradventure here ſome will demand and ſay, if that the caſe and condition of our ſtraying ſheepe be ſo lamentable and full of woe, why, what ſhould move then unregenerate boſomes, I meane our unmortified and carnall Chriſtians to perſevere in this diſmall ſtate?</p>
+            <p>
+               <note place="margin">Sol.</note>To which I make anſwer and ſay thus much, that there are ſundry provocations and inticing motives that bewitch men to goe on in ſin, and to runne every day more and more from the fold of Chriſt. That therefore you may avoyd them and ſhunne them all, I ſhall briefly lay them open to your Chriſtian conſiderations.<note place="margin">Note that there are ſix provoca<g ref="char:EOLhyphen"/>tions that even force men to run aſtray from Chriſt our Shepheard and Biſhop. The firſt provocation <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Sat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an.</note>
+            </p>
+            <p>The deceiveable provocations that principally cauſe unre<g ref="char:EOLhyphen"/>generate men to goe aſtray from the ſold of Chriſt, are chiefe<g ref="char:EOLhyphen"/>ly ſixe.</p>
+            <p>The firſt provocation or provoking motive that makes a man to run aſtray from Chriſt, to the great prejudice of him<g ref="char:EOLhyphen"/>ſelfe and hazard of his poore ſoules ſalvation for ever, is the accuſer of mankind <hi>Satanas,</hi> the Prince of the aire. For illuſtra<g ref="char:EOLhyphen"/>tions
+<pb n="9" facs="tcp:58484:10"/> ſake, twas he that firſt made our firſt Parents <hi>Adam</hi> and <hi>Eve</hi> to runne aſtray from God the father,<note place="margin">
+                  <hi>Gen.</hi> 3.13.</note> and alſo now labours to deale ſo in like manner with all his poſterity, that they may runne on ſtragling alſo from the bleſſed Saviour, from God the Sonne; and thereupon doth our bleſſed Apoſtle adviſe all Gods people by all manner of meanes, to be <hi>vigilant and ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ber, be<g ref="char:EOLhyphen"/>cauſe our adverſary the devill as a roaring Lion walketh about ſeek<g ref="char:EOLhyphen"/>ing whom he may devoure,</hi> 1 <hi>Pet.</hi> 5.8.</p>
+            <p>The ſecond provoking motive that occaſioneth men to run away from Chriſt and his fold,<note place="margin">The ſecond provocation is an ill Miniſterie.</note> is a number of deceiving Mi<g ref="char:EOLhyphen"/>niſters, who in many places either ſpeake not to the flocke at all, and ſo play the part of dumb dogs, and thereby the people periſh for want of knowledge, or elſe when they ſpeake, doe broch nothing elſe but falſhoods, dawbing them with untem<g ref="char:EOLhyphen"/>tempered mortar, and divining lies, ſaying, thus ſaith the Lord, when the Lord hath not ſpoken it. Oh but what ſaith the Lord againſt ſuch wicked Paſtors?<note place="margin">
+                  <hi>Ezek.</hi> 34.10</note> Oh conſult with the Prophet <hi>Ezekiel,</hi> and he will tell us, that the Lord is extreamely angry and incenſed againſt ſuch, (ſaying,) that he is againſt them, and that he<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> will require his flocke at their hands, and cauſe them to ceaſe from feeding the flocke, and againe, that they ſhall not feed themſelves any more, and that he will deliver his owne flocke from their mouth, that they may not bee meate for them.</p>
+            <p>The third provocation that makes a man to runne aſtray from CHRIST, is the world,<note place="margin">The third provocation is the world</note> which cauſeth men to goe aſtray two manner of wayes.</p>
+            <list>
+               <item>Firſt, when they love it, more than they ſhould.</item>
+               <item>Secondly, when they faſhion themſelves unto it, more than they ought to doe.</item>
+            </list>
+            <p>Firſt, I ſay, when they love it more than they ſhould, that is, when they prize it above the things of a better life, and there<g ref="char:EOLhyphen"/>fore ſaith Saint <hi>Iohn, love not the world nor the things of the world,</hi>
+               <note place="margin">1 <hi>Ioh.</hi> 2.15.</note> for whoſoever loveth the world more than he ſhould in con<g ref="char:EOLhyphen"/>ſcience, it is moſt certaine that the love of the Father is not a<g ref="char:EOLhyphen"/>biding in him.</p>
+            <p>Secondly, when they faſhion themſelves unto it more than they ought to doe, that is, when men take their chiefeſt imita<g ref="char:EOLhyphen"/>tions
+<pb n="10" facs="tcp:58484:11"/> from the wicked practices thereof, and therefore ſaith Saint <hi>Paul,</hi> (to keepe all good Chriſtians within the fold of Chriſt) in theſe words, that is to ſay, Brethren I beſeech you by the mercies of God,<note place="margin">
+                  <hi>Rom.</hi> 12.1.</note> that you preſent your bodies a living ſa<g ref="char:EOLhyphen"/>crifice, holy, acceptable unto God which is your reaſonable ſer<g ref="char:EOLhyphen"/>vice, and be not conformed to this world, but be ye transfor<g ref="char:EOLhyphen"/>med by the renewing of your mind, that you may prove what is that good, and acceptable, and perfect will of God.</p>
+            <p>
+               <note place="margin">The 4th pro<g ref="char:EOLunhyphen"/>vocation is the retain<g ref="char:EOLhyphen"/>ing of ſome particular infirmity or corrupti<g ref="char:EOLhyphen"/>on. 2 <hi>Kin.</hi> 1.20</note>The fourth is, the keeping or retaining of ſome beloved ſinne, that makes either for our pleaſure or for our profit in the purſuite of ſinne. For inſtance ſake, what I pray made <hi>Iehu</hi> to runne aſtray from the fold of God, to the practice of <hi>Jero<g ref="char:EOLhyphen"/>boams</hi> ſinnes, but even the Golden Calves that were at <hi>Dan</hi> and <hi>Bethel?</hi> Certainely his greedy avarice was the very ruine of his ſoule, and therefore, I ſay in this caſe as once the Holy Ghoſt ſpeaketh in the like, <hi>Rom.</hi> 6.12, 13. <hi>Oh yeeld n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t your members as inſtruments of unrighteouſneſſe to ſinne, but as inſtru<g ref="char:EOLhyphen"/>ments of righteouſneſſe to God.</hi>
+            </p>
+            <p>
+               <note place="margin">The fifth provocation that forceth us to runne from Chriſt is our owne hearts. <hi>Ier.</hi> 17 <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Diverſe de<g ref="char:EOLhyphen"/>ceipts the heart uſeth to make us ſtraggle from Chriſt as firſt ſen<g ref="char:EOLhyphen"/>ſuall per<g ref="char:EOLhyphen"/>ſwaſions. <hi>Gen.</hi> 3 6.</note>The fifth inticing motive that doth inſtigate us and ſtirre us up, to wander up and downe like ſtraying ſheepe from the fold of Chriſt, is a mans owne boſome, a mans owne heart, and therefore the Prophet <hi>Jeremy</hi> calleth it <hi>[ſuper omnia fraudu<g ref="char:EOLhyphen"/>lentum,]</hi> ſaying, that it is deceitfull above all things. Vſing all the deceits in the world to undoe us, As</p>
+            <p>Firſt ſenſuall and fleſhly perſwaſions to make us go aſtray, as in the caſe of <hi>Eve;</hi> her heart being deluded by Sathans wiles, perſwades her that the Tree was good for food.</p>
+            <p>Secondly, that it was pleaſant.</p>
+            <p>Thirdly, to bee deſired to make one wiſe; and upon thoſe perſwaſions, falls to eating of the forbidden fruit, runnes from the fold of GOD into the wide and vaſt Commons of wilfull diſobedience, and gives alſo to her husband, and hee di<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> eate.</p>
+            <p>
+               <note place="margin">The ſecond deceit of the heart to make us ſtraggle. <hi>Luk.</hi> 14.16. <hi>Mat.</hi> 22.2.</note>Secondly, uſing apparently faire pretences, but deceiving excuſes; as we ſee in the Parable of the Farmer, the Marchant and the married man. When they were invited to the grea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Supper, as Saint <hi>Luke</hi> calleth it, and to the Marriage of the Kings ſonne, as Saint <hi>Matthew</hi> tearmes it, ſee the materiall cauſe that makes them keep back, that makes them rather wan<g ref="char:EOLhyphen"/>der further from the fold of Chriſt, than in any ſort to come
+<pb n="11" facs="tcp:58484:11"/> unto it. Every one of them as the Text tells us, begins to make excuſes. The Farmer firſt pretends that hee had bought a peece of ground, and therefore had cauſe enough to look to his owne Commons, and to leave Gods ſeverall. Another had bought five yoke of Oxen, as he pretended, and muſt goe to prove them, and therefore deſires to be excuſed, hee by no meanes will keepe the fold, for feare leaſt his Oxen ſhould run aſtray, but what ſaith a learned Father on the place, <hi>[heu heu quam lamentabile eſt Poſt-ponere Chriſtum bovibus, qui nos aequa<g ref="char:EOLhyphen"/>vit Angelis?</hi> Oh how lamentable a matter is it, to put Chriſt after Oxen, that hath made us equall with the bleſſed Angels? Next the Merchant pretendeth as faire as any of the reſt, he had great traffike in hand, he had great Marchandize to looke unto, anabundance of waighty affaires of great importance, and ther<g ref="char:EOLhyphen"/>fore could not come from Ship-board to the Sheep-fold, could not be at the mariage, could not come to the Supper,<note place="margin">
+                  <hi>Luk</hi> 14.18.19, 20.</note> but muſt needs go abroad.</p>
+            <p>Laſtly the married man hath his ſelfe-deceiving pretences, his ſelfe-deceiving excuſes too; he had married a wife and ther<g ref="char:EOLhyphen"/>fore as the Text ſaith, he could not tend the feaſt, he could not keep the fold. He values more the Spouſe of his boſom, than the bridegroom of his ſoule, <hi>[impar congreſſus:]</hi> and as if the com<g ref="char:EOLhyphen"/>ming to the marriage banquet would have been an hinderance in the injoyment of his love; and this our deceitfull hearts as we may juſtly tearme them, doe ever pretend, one thing or other, ever make one excuſe or other, whereby we run aſtray from the fold of Chriſt.</p>
+            <p>The 6<hi rend="sup">th</hi> and laſt provocation,<note place="margin">The ſixth provocation that makes men run a<g ref="char:EOLhyphen"/>ſtray from Chriſt is a loving of ſingularity more than of ſincerity.</note> that cauſeth men to ſtraggle and wander from the fold of Chriſt, is a loving of ſingularity more than of ſincerity, when men are more curious then cautelous, more captious then capacious; I doe not here ſpeake of thoſe or againſt thoſe that are circumſpect and wary in their manner of life and living, as in their thoughts and words and actions [for thoſe are highly to bee commended for rare and excellent Ch iſtians, but againſt thoſe that will bee ſo ſingular in their wayes,<note place="margin">
+                  <hi>Luk.</hi> 13.14.</note> that with the ruler of the Synagogue they will make ſinne to be there where God makes none, and count that to be ſinne that comes not into Gods <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>unt. Thouſands and ten thouſands runne aſtray by this grand provocation,<note place="margin">1 <hi>Tim.</hi> 6.20</note> giving
+<pb n="12" facs="tcp:58484:12"/> themſelves over to profane and vaine babbling, <hi>and making the ſacred Scriptures at their pleaſures and opinions to be like a noſe of wax:</hi> and therefore for conclu ion hereof let me ſay to ſuch, as Saint <hi>Paul</hi> ſpeakes to <hi>Titus,</hi>
+               <note place="margin">
+                  <hi>Tit.</hi> 3.9.</note> (ſaying) <hi>avoyd fooliſh queſtions and genealogies and contentions and ſtrivings about the law, for they are unprofitable and vaine.</hi>
+            </p>
+            <p>
+               <note place="margin">Ob.</note>I but ſaies the wounded conſcience, ſeeing thoſe are the pro<g ref="char:EOLhyphen"/>vocations that cauſe men to goe aſtray, how ſhall we for our parts know when we goe aſtray, and when not, yea and when we keepe the fold, and when not?</p>
+            <p>
+               <note place="margin">Sol.</note>For anſwer whereunto, though wee have ſpoken before of ſome diſcoveries in this kind, obſerve theſe ſymptomes and cha<g ref="char:EOLhyphen"/>racters in Divinity, which doe moſt aſſuredly certifie mens conſciences when they are out of Chriſts fold, and when they appeare to the eye of all GODS people to bee like loſt ſheepe.</p>
+            <p>
+               <note place="margin">Diverſe ſymptomes whereby we may know when we are out of Chriſts fold. The firſt Symptome is an hating of reforma<g ref="char:EOLhyphen"/>tion. <hi>Acts</hi> 7.51. <hi>to</hi> 54.</note>Firſt, the firſt ſymptome and token that declares a man be<g ref="char:EOLhyphen"/>fore God and the world, to be a loſt ſheep, to be ſtraying from the fold of Chriſt, to be a Wolfe or a Goate, and not a Lanb of the flocke, is an hating of reformation, when men cannot en<g ref="char:EOLhyphen"/>dure to be told of their faults, when they will not hearken to the voyce of the Charmer charme hee never ſo wiſely, when like gall'd backes, and conſciences, they cannot endure to bee touched, and when reprehenſion and inſtruction is bitter in their eyes. Such ſtraying ſheepe (for examples ſake) were Saint <hi>Stephens</hi> madde men, who when the holy man of GOD tells them of their faults, how ſtiffe necked and uncircumciſed in hearts and eares they were, and how they and their fathers had ſlaine the Prophets, and how that touching the juſt one they were no better than betrayers and murderers; inſtead of making good uſe thereof, <hi>[frendebant cordibus,]</hi> they were cut to the heart, and gnaſht upon him with their teeth; not like <hi>Peters</hi> converts that were the better for their reproofe, of whom the Text ſaith [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] that they were prickt to the heart and ſaid,<note place="margin">
+                  <hi>Acts</hi> 2.37.</note> 
+               <hi>men and brethren what ſhall we doe to be ſaved?</hi> but like <hi>Amos</hi> his Revolters, that did hate him that rebuked in the gate,<note place="margin">
+                  <hi>Amos</hi> 5.10</note> and that did abhor him that ſpake uprightly.</p>
+            <p>Now if the Children of God tell ſuch, what a lamentable
+<pb n="13" facs="tcp:58484:12"/> condition they are in, how that their wayes are the wayes of deſtruction, and how that they are in the gall of bitterneſſe and in the bondage of death; and they are ready to braſſe over their words, and to flint their foreheads, and to ſay with thoſe ſtraglers in the Prophets time; It is not the Lord,<note place="margin">
+                  <hi>Jer.</hi> 5.12, 13.</note> neither ſhall evill come upon us, neither ſhall we ſee ſword nor famine, and again, the Prophets ſhall become winde, and the word is not in them, and again hee further proceedeth, come let us ſmite him with the tongue, and not give heed to any of his words: but alaſſe alaſſe, what a miſery thinke you doe ſuch wandring goats, ſuch haters of reformation, even hale and pull upon their own heads and upon <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> belong unto them? the Prophet telleth us that their children ſhall be delivered up to the famine,<note place="margin">
+                  <hi>Ier.</hi> 18 21, 22.</note> and their bloud powred out by the force of the ſword, and their wives bereaved of their children and bee widdowes, and their young men bee ſlaine with the ſword in battel, and that a cry ſhall be heard in their houſes, when that the Lord ſhall bring a troupe ſuddenly upon them: all which is concordant with the words of the wiſe man; <hi>(viz)</hi> hee is in the way of life that loveth inſtruction,<note place="margin">
+                  <hi>P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o:</hi> 10.17.</note> but hee that hateth re<g ref="char:EOLhyphen"/>proofe erreth.</p>
+            <p>Secondly,<note place="margin">The ſecond ſymptome of a ſtray<g ref="char:EOLhyphen"/>ing ſheepe from Chriſts fold is a defile<g ref="char:EOLhyphen"/>ing of the Ordinances of heaven.</note> the ſecond character and ſymptome that declares a man to be a ſtraying ſheep, and a great way from Chriſts fold, is a polluting or defiling of the ordinances of the moſt High, when men doe not only forſake the practice of Gods teſtimo<g ref="char:EOLhyphen"/>nies themſelves, but to their uttermoſt power ſpeake evill of the good way of God, that thereby they may diſcourage o<g ref="char:EOLhyphen"/>thers from being zealous in GODS cauſe. For inſtance ſake, ſuch accurſed wandring Goates the Prophet <hi>Malachy</hi> ſpeak<g ref="char:EOLhyphen"/>eth of ſaying,<note place="margin">
+                  <hi>Mal.</hi> 3.14.</note> how that they ſaid that it was in vaine to ſerve <hi>God,</hi> and what profit is it that we have kept his teſtimonies, and that we have walked mournefully before the Lord of Hoſts? like thoſe rake-hells alſo in Saint <hi>Peters</hi> time, who that they might cauſe others to ſtray from the flocke and fold of Chriſt, as well as themſelves, utter ſuch and the like reproachfull taunts and tearmes, <hi>[viz:]</hi> where is the promiſe of his com<g ref="char:EOLhyphen"/>ming? for ſince the fathers fell aſleepe, all things continue as they were from the beginning of the creation: but what I pray is like to be the doome and deſtinie of ſuch ſtragling Goates?
+<pb n="14" facs="tcp:58484:13"/> The Prophet <hi>Ezekiel</hi> tells ſuch filthie Cattell that foule with their feete the reſidue of Gods Paſtures,<note place="margin">
+                  <hi>Eze.</hi> 34.22.</note> and that thruſt with ſide and with ſhoulder, and puſh all the diſeaſed with their hornes till they have ſcattered them abroad, that he will at the length take judgment on them.</p>
+            <p>
+               <note place="margin">The third Symptome of our going aſtray from Chriſts fold is a too much relli<g ref="char:EOLhyphen"/>ſhing of mundane matters. 2 <hi>Tim.</hi> 4 10 1 <hi>Sam.</hi> 15.9, 26.</note>The third and laſt Character and ſymptome that declares a man when he is ſtraying from the fold of Chriſt, is a ſavouring or a relliſhing or a taſting of nothing elſe in the world ſave worldly matters. Hereupon it was ſaid of <hi>Demas,</hi> that hee had forſaken the flocke of God, and had betaken himſelfe to this preſent world, and of <hi>Saul</hi> ſparing <hi>Agag</hi> and the beſt of the Sheep and that Oxen, that he had diſobeyed the commande<g ref="char:EOLhyphen"/>ment of the Lord, and that therefore the Lord had rejected him from being King over <hi>Iſrael,</hi> and therefore for concluſion of this point, remember the golden leſſon of our bleſſed Saviour to his beloved Lambes, which he would have for to keepe the fold,<note place="margin">
+                  <hi>Mat.</hi> 6.33.</note> ſaying, Oh <hi>ſeeke firſt the kingdome of God and the righte<g ref="char:EOLhyphen"/>ouſneſſe thereof, and then all other things ſhall bee added unto you.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>
+               </label> I but ſuppoſe ſaith the wounded conſcience, that I am branded with all theſe markes, that all thoſe Characters and ſymptomes of a ſtraying ſheepe are upon me, what? am I therefore a caſt<g ref="char:EOLhyphen"/>way? is there no hope of recovery? and muſt I needs bee damn'd?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label> I anſwer, oh no; deſpaire by no meanes in the world, but for thy comfort and conſolation caſt a glaunce upon the parties that are in the Text before thee. Once the times was, that they were as ſinfull and as uncleane, as now thou thy ſelfe confeſ<g ref="char:EOLhyphen"/>ſeſt that thou art, weltring in the bloud of thy crying ſinnes; they were unnaturall, unholy, and ſubject to diverſe luſts, nay and as far from Chriſts fold, as now thou thy ſelfe confeſſeſt in like manner, yea and ſo much too the text imports from the word <hi>[eratis, &amp;c. yee were,]</hi> ye were as ſheep going aſtray; but ſee ſee the great goodneſſe of God Almighty calling them and bringing them who were once darkneſſe, to become light in the Lord, and cauſing them alſo who were far gone a ſtray, to returne to the Shepheard and Biſhop of their ſoules. And therefore be not diſmayd, but take this for an abſolute ground of truth.</p>
+            <pb n="15" facs="tcp:58484:13"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>
+               </label> How that GODS deareſt children before their calling in CHRIST, may runne aſtray like loſt ſheep from the fold of Chriſt.</p>
+            <p>The encouragements therefore now that I have prepared for thee to keepe thee from deſpaire, and that thou mayeſt not make thy ſelfe a caſt away, though thou haſt lived all thy life time like a ſtragling ſheep, are principally three.</p>
+            <p>The firſt is taken from the abſoluteneſſe of Gods call to have thee come againe to the fold of Chriſt.<note place="margin">3 Encou<g ref="char:EOLhyphen"/>ragements to allure ſinners that they do not deſpaire, though they have wandred a long time from Chriſts fold</note>
+            </p>
+            <p>The ſecond is taken from the ſufficiency of Chriſts ſacri<g ref="char:EOLhyphen"/>fice that he hath made through his bloud, and which hath ſa<g ref="char:EOLhyphen"/>tisfied the fathers wrath, though thou by thy going aſtray haſt provoked his juſtice mightily to take vengeance on thee by reaſon of thy crying crimes.</p>
+            <p>And the laſt encouragement is taken from the free wel<g ref="char:EOLhyphen"/>come which thou ſhalt finde at the Fathers hands, when with hearty Repentance thou returneſt againe unto the Fold of the Sonne, who is the great Shepheard and Biſhop of thy ſoule.</p>
+            <p>The firſt encouragement, I ſay,<note place="margin">The firſt en<g ref="char:EOLhyphen"/>couragment.</note> why thou ſhouldſt not de<g ref="char:EOLhyphen"/>ſpaire, though thou haſt moſt grievouſly runne aſtray from the fold of Chriſt, is taken from the abſoluteneſſe of Gods call, cal<g ref="char:EOLhyphen"/>ing thee by all manner of meanes to come away ſpeedily to the fold againe.</p>
+            <p>Never did the Hart deſire more after the water-brookes,<note place="margin">
+                  <hi>Pſa.</hi> 42.1.</note> then doth God deſire at this preſent that thou ſhould returne againe unto him: <hi>Ho</hi> (ſaith he) <hi>every one that thirſteth come to the waters, and you that have no money, come notwithſtanding,</hi>
+               <note place="margin">
+                  <hi>Jſa.</hi> 55.1.</note> 
+               <hi>buy and eate, yea come buy wine and milke, &amp;c.</hi> And againe, as if he did extreamely long for the converſion of all that are aſtray, he divulgeth his deſire thus, [<hi>caſt away all your tranſ<g ref="char:EOLhyphen"/>greſſions, and make you a new heart, and a new ſpirit,</hi>
+               <note place="margin">
+                  <hi>Ezec.</hi> 18.31.</note> 
+               <hi>for why will yee die ô houſe of Iſrael?</hi> as if he ſhould have ſaid thus, I do not deſire that any one ſhould periſh in his going aſtray, <hi>I had ra<g ref="char:EOLhyphen"/>ther that he would returne and keepe the fold, for J have no pleaſure in the death of him that dyeth, ſaith the Lord,</hi> wherefore ſaith he, turne your ſelves and live for ever. And againe, <hi>I came not to call the righteous, but ſinners to repentance.</hi>
+               <note place="margin">
+                  <hi>ver.</hi> 32.</note> Oh think not then that GOD doth not call thee becauſe thou art ſo ſinfull, ſo
+<pb n="16" facs="tcp:58484:14"/> foule and ugly, and ſo generally abounding with the practice of all crying crimes, for be aſſured that it is moſt true, becauſe thou art ſo, therefore doth he out of his meere grace and fa<g ref="char:EOLhyphen"/>vour call thee that thou ſhouldſt returne againe unto him. For illuſtrations ſake, had not <hi>David</hi> his call to returne again un<g ref="char:EOLhyphen"/>to the fold, after that his hands were bath'd in bloud? had not <hi>Rehoboam</hi> and <hi>Manaſſeth</hi> their call from heaven,<note place="margin">2 <hi>Sam.</hi> 12.13 2 <hi>Chro.</hi> 12.</note> after they had committed moſt grand idolatries? Farther, had not <hi>Mary Magdalen</hi> her call from heaven,<note place="margin">&amp; 2 <hi>Chr.</hi> 33 <hi>Luk.</hi> 8.2. <hi>Acts</hi> 9.4.</note> after ſhe was poſſeſt with ſe<g ref="char:EOLhyphen"/>ven devills? Nay, had not Saint <hi>Paul</hi> his effectuall calling too, after he had practiſed perſecution upon the Saints? Wher<g ref="char:EOLhyphen"/>fore be not diſmaid by reaſon of thy haynous ſinnes, as if thou wert paſt all hope that thou ſhouldſt never ſee the Shepheard of thy ſoule againe, and that thou canſt never come to the ſheepfold any more at all, for <hi>[magis proprium eſt Deo miſereri pro bonitate quam iraſci pro justitia]</hi> It is more uſuall with God to take pitty upon a poore ſtraying ſheepe for his mercies ſake, than to reject him for ever for his juſtice ſake, and ther<g ref="char:EOLhyphen"/>fore he invites all to come for comfort [ſaying,<note place="margin">
+                  <hi>Mat.</hi> 11.28.</note> 
+               <hi>Come unto mee all that are weary and heavie laden, and J will refreſh you.</hi> Oh then hearken to Gods call, and obey his voyce, leaſt thine im<g ref="char:EOLhyphen"/>penitency and ungodly courſes provoke the great Shepheard here and Biſhop of our ſoules, at the latter day to reject thee, indeed, and as upon the fooliſh Virgins to ſhut the dore upon thee,<note place="margin">
+                  <hi>Mat.</hi> 25.12</note> [ſaying, <hi>Non novi vos,] J know you not, depart from mee yee workers of iniquity.</hi>
+            </p>
+            <p>
+               <note place="margin">The ſecond encourage<g ref="char:EOLhyphen"/>ment why we ſhould not diſpaire though out of the fold. <hi>Iſa.</hi> 62 3.</note>The ſecond encouragement why we ſhould not deſpaire and make our ſelves caſt-awaies though we have even from our ve<g ref="char:EOLhyphen"/>ry cradles to this very preſent ran aſtray; is taken from the ſuf<g ref="char:EOLhyphen"/>ficiency of our great Shepheards and Biſhops ſacrifice wherby he hath appeaſed the fathers wrath in our behalfes, treading the Wine-Preſſe alone and making an atonement for all our ſins.</p>
+            <p>It may be thou wilt object and ſay here, that thy ſinnes are greater than all the worlds beſides,<note place="margin">Ob.</note> and that thou art quite out of conceit that ever thou ſhalt bee accepted into the fold a<g ref="char:EOLhyphen"/>gaine: that thou art full of poyſonous thoughts, full of adul<g ref="char:EOLhyphen"/>terous actions, top full of murthers; that thou haſt as many blaſphemies as ever were in any mortalls boſome, as many luſts and deceitfull robberies, and as many crying cruelties
+<pb n="17" facs="tcp:58484:14"/> againſt God and his Saints, and that therefore thy ſtate and condition is lamentable and paſt recovery.</p>
+            <p>To the which I make anſwer,<note place="margin">Sol.</note> that if thy caſe bee as bad or worſe, yet haſt thou no warrant to be diffident of the ſufficien<g ref="char:EOLhyphen"/>cie of Chriſts ſacrifice, and the reaſon is rendred by the Holy Ghoſt thus, [If the bloud of Bulls and of Goates, and the Aſhes of an Heifer ſprinkling the uncleane ſanctifieth to the purifying of the fleſh:<note place="margin">
+                  <hi>Heb.</hi> 9.13.14.</note> how much more ſhall the bloud of Chriſt, who through the eternall ſpirit offerd himſelfe without ſpot to GOD, purge your Conſciences from dead workes, to ſerve the living God? Moſt certaine then and a moſt infal<g ref="char:EOLhyphen"/>lible and undeniable doctrine is it, that CHRISTS ſuffer<g ref="char:EOLhyphen"/>ings are beyond thy ſinnings, his merits are beyond thy miſe<g ref="char:EOLhyphen"/>ries; and therefore be of good cheere, and that alſo for theſe reaſons following.</p>
+            <list>
+               <item>Firſt, becauſe the Sonne of God was plagued for thy ſinnes, <hi>Rom.</hi> 4.25.</item>
+               <item>Secondly, becauſe hee was delivered to Death for thy ſins.</item>
+               <item>Thirdly, Becauſe he was ſacrificed as a Paſſeover for thy ſins, 1 <hi>Cor.</hi> 5.7.</item>
+               <item>Fourthly, Becauſe hee was made a curſe for thy ſins, that thou mighteſt bee made the righteouſneſſe of God in him, <hi>Gal.</hi> 3.13.</item>
+               <item>Laſtly, Becauſe he hath taken all thy ſinnes with the hand<g ref="char:EOLhyphen"/>writing that was againſt thee, and hath nayld them to his Croſſe, <hi>Col.</hi> 2.14.</item>
+            </list>
+            <p>Yea to conclude all in a word, ô be not diſmaid then by no manner of meanes in the world, for though thou canſt not ſpeake for thy ſelfe,<note place="margin">1 <hi>Iohn</hi> 2.1, 2. 1 <hi>Tim.</hi> 1.15 The third and laſt en<g ref="char:EOLhyphen"/>courage<g ref="char:EOLhyphen"/>ment why we ſhould not diſpaire though wee have been a long time out of the fold of Chriſt.</note> yet thou haſt an advocate in Heaven that will ſpeake for thee, even <hi>Ieſus Chriſt</hi> the righteous, <hi>and hee is the propitiation and ſacrifice for all thy ſinnes.</hi> Yea thou mayeſt ſay with St. <hi>Paul,</hi> namely that it is a true ſaying, <hi>and worthy of all men to be believed, that Jeſus Christ came into the world to ſave ſinners of whom thou art chiefe.</hi>
+            </p>
+            <p>The laſt encouragement why thou ſhouldſt not diſpaire though thou haſt gone aſtray from the fold of Chriſt like a loſt ſheepe, is taken from the free welcome which thou ſhalt have
+<pb n="18" facs="tcp:58484:15"/> at the fathers hands when with hearty repentance thou doſt returne againe.</p>
+            <p>Oh remember, remember the welcome of the Prodigall re<g ref="char:EOLhyphen"/>corded in the Parable, as ſoone as hee returnes to his father from his wandring errors.</p>
+            <p>Firſt, the beſt Robe is called for to be put upon him.</p>
+            <p>Next, The Father calls for a Ring to put upon his hand.</p>
+            <p>Thirdly, for ſhooes to put upon his feete.</p>
+            <p>Fourthly, and laſtly for the ſatted Calfe to bee killed for him, that ſo they might ſolace themſelves and eate and bee merry.</p>
+            <p>For applications ſake, ô know that ſuch, nay a greater wel<g ref="char:EOLhyphen"/>come hath the penitent ſinner at our heavenly fathers hands, when with the Prodigall hee returnes in penitency unto the fold againe, for firſt the beſt Robe is put upon him, even the Robe of CHRISTS Righteouſneſſe.</p>
+            <p>Secondly, inſtead of a Ring and ſhooes, and the fatted Calfe, he hath a kingdome aſſured him, and therefore our Sa<g ref="char:EOLhyphen"/>viour ſaith, <hi>feare not yee little flocke, it is your Fathers good plea<g ref="char:EOLhyphen"/>ſure to give you a kingdome.</hi>
+               <note place="margin">
+                  <hi>Luk.</hi> 15.10.</note>
+            </p>
+            <p>Laſtly, for mirth and joy, the very Angels witneſſe it, joy<g ref="char:EOLhyphen"/>ing and rejoycing at the ſtraying ſheepes returne, and there<g ref="char:EOLhyphen"/>fore for concluſion of all, and to end this point in a word, I would intreat all in the feare of God, and for the ſalvation of their owne ſoules, that for many yeares together have any way erred from the fold of CHRIST, for to performe now the taske that our Saviour doth enjoyne his Spouſe, [ſaying,] <hi>Returne returne ô</hi> Shulamite,<note place="margin">
+                  <hi>Cant.</hi> 6.13.</note> 
+               <hi>returne returne, that we may look up<g ref="char:EOLhyphen"/>on thee.</hi>
+            </p>
+            <p>And thus much be briefly ſpoken for the firſt eſtate of Saint <hi>Peters</hi> Auditors, which we call'd their preterit eſtate in ſinne; Now followes their preſent condition, their preſent eſtate in grace, ſpecified in theſe words follow<g ref="char:EOLhyphen"/>ing <hi>[but are now returned unto the Shepheard and Biſhop of your ſoules.]</hi>
+            </p>
+            <pb n="19" facs="tcp:58484:15"/>
+            <p> IN this their eſtate of grace we are to conſider two materiall points;
+<list>
+                  <item>Firſt, their action, in the word <hi>[returned,] but are now returned,</hi> &amp;c.</item>
+                  <item>Secondly, their object, the object of their action, and that is our bleſſed Saviour ſet forth here by two Appellations, or titles.
+<list>
+                        <item>1. SHEPHEARD.</item>
+                        <item>2. BISHOP;</item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p>As we reade in the next words, <hi>(viz.) <g ref="char:V">Ʋ</g>nto the Shepheard and Biſhop of your ſoules.</hi>
+            </p>
+            <p>As for the action, that teacheth us what wee muſt doe; and as for the object, that teacheth us to whom wee muſt ſo re<g ref="char:EOLhyphen"/>turne.</p>
+            <p>Firſt, againe for the actions, that we muſt obſerve, is to be performed in the practice of two particulars,
+<list>
+                  <item>Firſt in our averſion from ſinne.</item>
+                  <item>Secondly in converſion unto God.</item>
+               </list>
+            </p>
+            <p>In our averſion from ſinne wee are to obſerve [<hi>terminum a quo</hi> 1.] the matter from which we are to turne <hi>(viz.)</hi> from the region and land of darkeneſſe and ſhadow of death,] in our converſion unto <hi>God</hi> we are to obſerve <hi>[terminum ad quem]</hi> namely the fountaine and well ſpring of life to the which we muſt bend all our courſe,<note place="margin">
+                  <hi>Jſa.</hi> 9.2.</note> and that is to the great ſhepheard and Biſhop of our ſoules.</p>
+            <p>We will not ſpeake here touching the firſt particular (namly our averſion from ſinne) becauſe we are to handle it ſhortly in another treatiſe; come we therefore briefly to the ſecond, name<g ref="char:EOLhyphen"/>ly our converſion and returne to God, or as the Text ſaith, to the Shepheard and Biſhop of our ſoules.</p>
+            <q>But are now returned, <hi>&amp;c.</hi>
+            </q>
+            <p>And happie, ô thrice happie were all wee in this world,
+<pb n="20" facs="tcp:58484:16"/> might this heavenly action and practice of Saint <hi>Peters</hi> aſſem<g ref="char:EOLhyphen"/>bly, be as truly and as really verified of us, as it was of them. But alaſſe alaſſe our times are ſuch, and men now adayes ſo a<g ref="char:EOLhyphen"/>verſe from Pietie, as that we may ſay with the Prophet, [hee that departeth from evill maketh himſelfe a prey; yea <hi>[glome<g ref="char:EOLhyphen"/>rantur in unum innumerae peſtes erebi.]</hi> The miſchiefes of hell are got to one Croude, and we (God wot,) are ſcarce free from them. Yea and the Prophet <hi>Iſaiahs</hi> reproofe may juſtly bee caſt in our teeth <hi>(viz.)</hi> Ah ſinfull Nation, a people laden with iniquitie,<note place="margin">
+                  <hi>Jſa.</hi> 1 4.</note> a ſeed of evill doers, children that are corrup<g ref="char:EOLhyphen"/>ters, they have forſaken the Lord, they have provoked the holy One of <hi>Iſrael</hi> unto anger, they are gone away backward. Nay the Poets out-cry, may moſt truly cry downe our corruptions [ſaying.]</p>
+            <q>
+               <l>Vivitur ex rapto, non hoſpes ab hoſpite tutus,</l>
+               <l>Non ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cer a genero, fratrum quoque gratia rara eſt:</l>
+               <l>Imminet exitio vir conjugis, illa mariti.</l>
+               <l>Lurida terribiles miſcent aconita Noverca,</l>
+               <l>Filius ante di<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m Patrios inquirit in annos,</l>
+               <l>Victa jacet Pietas, &amp; virgo caede Madentes</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>ltima coeleſtum terras, Aſtraea reliquit.</l>
+            </q>
+            <p>
+               <note place="margin">
+                  <hi>Rom.</hi> 3.12.</note>Which words of the Poet are concordant with the Apoſtle (to wit,) they are all gone out of the way, they are altogether become unprofitable, there is none that doth good, no not one.</p>
+            <p>But now to alter the courſe of theſe mens ſinfull converſati<g ref="char:EOLhyphen"/>ons, whoſe wayes are the wayes of death, and whoſe ſteps goe downe quicke into hell,<note place="margin">Certaine Motives to move men to returne to the fold againe.</note> I would deſire them in the feare of God, and for their more ſpeedy converſion and returning unto the <hi>great Shepheard and Biſhop of their ſoules,</hi> to entertaine into their conſiderations theſe certaine motives which like piercing Goades are able to make to ſtirre even a very heart of flint.</p>
+            <p>The firſt motive<note place="margin">The firſt Motive.</note> why we ſhould ſpeedily bethink our ſelves of turning the Card of our affections, and of returning to our bleſſed Saviour and his fold againe, is taken from Gods infi<g ref="char:EOLhyphen"/>nite love moſt marvellouſlie ſhewed this kingdome from time
+<pb n="21" facs="tcp:58484:16"/> to time. Oh my deare brethren,<note place="margin">
+                  <hi>Mi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ah</hi> 6.4</note> hath not God with a migh<g ref="char:EOLhyphen"/>tie hand brought us out of the land of <hi>Aegypt</hi> and redeemed us out of the houſe of ſervants? was there not a time when we groaned under the papall yoke, and when darkneſſe and leaneneſſe went even into our ſoules? Beſides looke unto the miſeries of other kingdomes, what almoſt unheard of calami<g ref="char:EOLhyphen"/>ties have befallen them, and we notwithſtanding as yet (God bee bleſſed for it, though I confeſſe we have beene very much skared of late,) doe ſit at quiet under our owne Vines, and eate the fruit of our owne labours. Againe thinke upon the un<g ref="char:EOLhyphen"/>quiet bread long eatee in the Low-Countreys, and how that <hi>France</hi> heretofore hath beene made as it were a Cocke-pit for Maſſacres, and we (God be thanked as yet,) though I confeſſe grievous dangers have beene threatned of late, (God be mer<g ref="char:EOLhyphen"/>cifull unto us,) have peace in our <hi>borders, and plenteouſneſſe within our palaces.</hi>
+            </p>
+            <p>Againe, oh how have other kingdomes of late yeares beene affrighted with the continuall noyſe of the drum, roaring of Canons, ratling of armour, neighing of horſes, yea very Net<g ref="char:EOLhyphen"/>tles and Brambles growing in thoſe places where once the feete of Gods Saints have trod. We for all this (God be bleſ<g ref="char:EOLhyphen"/>ſed hitherto) have our Zion in perfect beauty ſtill, and our Ie<g ref="char:EOLhyphen"/>ruſalem as in former dayes.<note place="margin">
+                  <hi>Iſa</hi> 29.1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> Furthermore whereas in other kingdomes heretofore God hath made the wiſedome of their wiſe men to periſh, and the underſtanding of the prudent to be hid, which is a moſt lamentable plague and deſtinie where<g ref="char:EOLhyphen"/>ſoever it lighteth; wee (GOD bee bleſſed for it) for our parts have <hi>Moſes</hi> and <hi>Aaron</hi> and <hi>Miriam</hi> to goe in and out be<g ref="char:EOLhyphen"/>fore us.</p>
+            <p>In a word, ô my brethren,<note place="margin">
+                  <hi>Micah</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> conſider what <hi>Balaak</hi> King of <hi>Moab</hi> conſulted, and what <hi>Balaam</hi> the ſonne of <hi>Beor</hi> anſwe<g ref="char:EOLhyphen"/>red him from <hi>Shittim</hi> unto <hi>Gilgal.</hi> I meane how that filthy Harlot the great Whore of Babylon hath curſt us all, our King, our Counſell, our Peeres, our Gentry, and our Commons of this land, and how the eternall God out of his infinite mercy and goodneſſe hath moſt graciouſly turned thoſe execrations into bleſſings, and therefore now let every one that readeth this, ſeeing the gracious goodneſſe of the Lord hath beene ſo abundantly mercifully extended to this our Nation, returne
+<pb n="22" facs="tcp:58484:17"/> with a thankfull heart unto the Originall and donour of this our happineſſe, each one reſolving with the Pſalmiſt ſaying thus, [<hi>I will receave the Cup of ſalvation, and will call upon the name of the Lord.</hi>
+               <note place="margin">
+                  <hi>Pſa.</hi> 116.12</note>]</p>
+            <p>The ſecond Motive<note place="margin">The ſecond Motive.</note> why we ſhould leave the fleſh pots of <hi>Aegypt,</hi> why we ſhould forſake the Wilderneſſe of ſinne, and with all care and diligence returne to the fold of Chriſt, is ta<g ref="char:EOLhyphen"/>ken from the moſt grievous dangers which hang over our heads, and which otherwiſe wil moſt aſſuredly fall upon us, and the reaſon is taken from the words of the Pſalmiſt (ſaying,) <hi>if a man will not turne,</hi>
+               <note place="margin">
+                  <hi>Pſal</hi> 7.12, 13.</note> 
+               <hi>hee hath whet his ſword, hee hath bent his bow and made it ready, and prepared his arrowes againſt the Per<g ref="char:EOLhyphen"/>ſecuters.</hi> Oh my deare brethren, I beſeech you lay it to heart, and enter into conſideration, what moſt terrible and fearefull plagues and judgements, our running and wandring from Chriſts fold are ready every minute of an houre to heape upon our heads;<note place="margin">
+                  <hi>Gen.</hi> 19.24.</note> for inſtance ſake, why may not the Lord of Hoſts in his moſt juſt wrath turne fire and brimſtone upon our heads, as upon <hi>Sodom</hi> and <hi>Gomorrah,</hi> and ſo conſume us quite, for our not returning to him? why may he not ſuffer our enemies to ride over our heads, and alſo ſuffer us to be led away into captivity, and to bee delivered into the hands of <hi>Iabin</hi> and <hi>Siſera,</hi>
+               <note place="margin">
+                  <hi>Iud.</hi> 4.2.</note> as he ſuffer'd his owne people when they ſtrayed from him? what are we ſpotleſſe? are we more juſt then they? Certainely my brethren, I tell you nay, and do ſay beſides, that if with all care and diligence wee doe not ſpeedily mend our manners and turne over a new leafe and returne to Chriſt, for ought I know to the contrary,<note place="margin">
+                  <hi>Luke</hi> 13.5.</note> 
+               <hi>wee may all likewiſe periſh.</hi> For now may the Lord of glory as juſtly exclaime againſt this kingdome of ours wherein we live and whereof we are members, as once againſt revolting <hi>Ieruſalem,</hi> [ſaying in thee have they ſet light by fa<g ref="char:EOLhyphen"/>ther and mother: in the midſt of thee have they dealt by op<g ref="char:EOLhyphen"/>preſſion with the ſtranger: in thee have they vexed the fa<g ref="char:EOLhyphen"/>therleſſe and the widdow:<note place="margin">
+                  <hi>Ezek.</hi> 22.7.8, 9, 10.</note> 
+               <hi>in thee have they deſpiſed mine holy things, and prophaned my Sabbaths. In thee are men that carry tales to ſhed bloud, and in the midſt of thee they commit lewdneſſe.</hi> To pillar up therfore the Lords wrath and vengeance and that his fury do not take place amongſt us, let us performe the taske that the Prophet <hi>Jeremy</hi> enjoynes Ieruſalem,<note place="margin">
+                  <hi>Lam.</hi> 3.40.</note> (ſaying) <hi>let us
+<pb n="23" facs="tcp:58484:17"/> ſearch and try our wayes and turne againe unto the Lord.</hi> Other<g ref="char:EOLhyphen"/>wiſe our bloud will bee upon our owne heads.<note place="margin">
+                  <hi>Ezek.</hi> 3, 19.</note> Wherefore breake up your fallow ground, fow not among thornes any longer, bee ci<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cumciſed to the Lord, and take away the fore<g ref="char:EOLhyphen"/>skinne of your hearts, yee men of <hi>Iudah</hi> and <hi>Jeruſalem, leſt my wrath come forth l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke fire, and burne that none can quench it, be<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>auſe of the wickedneſſe of your inventions,</hi>
+               <note place="margin">
+                  <hi>Ier.</hi> 4 4.</note> 
+               <hi>ſaith the</hi> LORD GOD.</p>
+            <p>The third and laſt Motive why we ſhould returne againe to God,<note place="margin">The laſt Motive.</note> and have a deſire to come to the fold of Chriſt whence wee moſt mightily have gone aſtray, is taken from the ſuper<g ref="char:EOLhyphen"/>abundance of joy and comfort that all penitents ſhall enjoy and reape at the hands of the great Shepheard, which joyes and comforts are in generall three.</p>
+            <list>
+               <item>Firſt, they ſhall have an abundance of his mercy and an abundance of his pardons, <hi>Jſa.</hi> 55.7.</item>
+               <item>Secondly, they ſhall have a certaine aſſurance of eternall life, they ſhal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> aſſuredly live and not die, <hi>Ezek.</hi> 18.23.</item>
+               <item>Thirdly, and laſtly everlaſting joy ſhall be upon their heads, they ſhall obtaine gladneſſe and joy, and ſor<g ref="char:EOLhyphen"/>row and mourning ſhall flee away, <hi>Iſa.</hi> 51.11. <hi>yea God hath promiſed them that they ſhall inherit all things, and that God will bee unto them a God, and that they ſhall be unto him ſons and daughters, Revel.</hi> 21.7.</item>
+            </list>
+            <p>The uſe now that ariſeth here conſiderable for our times is to reprove principally foure ſorts of Chriſtians,<note place="margin">Fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> who not<g ref="char:EOLhyphen"/>withſtanding the conſolations and benedictions before ſpeci<g ref="char:EOLhyphen"/>fied, runne continually aſtray ſtill, and ſeldome or never minde this Evangelicall exerciſe of returning to the fold a<g ref="char:EOLhyphen"/>gaine. As
+<list>
+                  <item>Firſt, The meere formaliſt:</item>
+                  <item>Secondly, The meere moralliſt, I meane the meere mo<g ref="char:EOLhyphen"/>rally honeſt man, that lookes no farther into Religi<g ref="char:EOLhyphen"/>on than the heathen did.</item>
+                  <item>Thirdly, The carnall humouriſt:</item>
+                  <item>And laſtly, the Luke-warme <hi>Laodicean.</hi>
+                  </item>
+               </list>
+            </p>
+            <pb n="24" facs="tcp:58484:18" rendition="simple:additions"/>
+            <p>
+               <note place="margin">The meere formaliſt to be repro<g ref="char:EOLhyphen"/>ved.</note>Firſt, I muſt reprove here the meere formaliſt that makes Religion nothing elſe but a meere faſhion, altering it as often as the times afford him cauſe. Look unto him on the Sunday, and prophane you ſhall ſee him like the Dominicall Letter zea<g ref="char:EOLhyphen"/>louſly red, but all the weeke after, you ſhall reade his deeds in blacke. He is juſt like the Glow-Worme ſeeming to bee all light, but make tryall of him in earneſt, and you ſhall find him a miſerable Worme. Great ſhowes and little ſubſtance (God wot) like our high hang'd Mills that keep abundance of clack<g ref="char:EOLhyphen"/>ing when they grinde the leaſt ſtore of Griſte. Or like your ſhallow babling ſtreames that make a great noiſe, and murmur in their running, when alaſſe they carry the leaſt ſubſtance of water. Aske him why he doth not abandon theſe his formall and deceiving vanities, why he doth not returne in ſincerity to the fountaine and well-ſpring of life, and hee will anſwer that he doth as his neighbours doe, and that his Religion is the ſame that the greateſt part are of; ſo that wee may juſtly compare ſuch meere formaliſts, unto ſimple and ſilly children, that will follow one another, though it bee into the mire and dirt; whereas the counſell of the Holy Ghoſt is farre contra<g ref="char:EOLhyphen"/>ry to this their practice, adviſing all in the feare of God to <hi>preſent their bodies a living ſacrifice holy and acceptable unto God which is their reaſonable ſervice,</hi>
+               <note place="margin">
+                  <hi>Rom.</hi> 12.1, 2</note> 
+               <hi>and not to bee conformed to the world, but to be transformed by the renewing of their minde, that they may prove what is that good and perfect and acceptable will of God.</hi> But what I pray doth the Apoſtle Saint <hi>Jude</hi> ſay elſe of ſuch? But <hi>that they are clouds without water carried about of windes,</hi>
+               <note place="margin">
+                  <hi>Iude</hi> 12.13</note> 
+               <hi>trees without fruit twice dead, pluckt up by the rootes, ra<g ref="char:EOLhyphen"/>ging waves of the Sea foming out their owne ſhame, and wandring ſtarres to whom is reſerved the blackneſſe of darkneſſe for ever,</hi> and therefore doth Saint <hi>Paul</hi> exhort all GODS children by all meanes in the world not to keepe company with ſuch, but to turne away from them, <hi>becauſe they have a forme of godlineſſe, but denying the power thereof.</hi>
+               <note place="margin">2 <hi>Tim.</hi> 3.5.</note>
+            </p>
+            <p>
+               <note place="margin">The meere moralliſt to be repro<g ref="char:EOLhyphen"/>ved.</note>Secondly, I muſt reprove here the meere moralliſt, I meane the meere morally honeſt meaning man, that lookes no farther into Religion than the very heathen did. Theſe are highly to be condemned, making no care at all to returne to Chriſt, but conceiving their morall actions to bee all-ſufficient for their
+<pb n="25" facs="tcp:58484:18" rendition="simple:additions"/> ſoules ſalvation. If they be temperate and not luxurious, if juſt and pay every man his owne, if chaſte, and not fleſhly gi<g ref="char:EOLhyphen"/>ven, if carefull of performing covenants, and not break their day; if honeſt to their neighbours, and not defraud them of that which is theirs, if liberall handed, and not penurious, if conſtant to their friend and not unſtable minded, if moderate in meates and drinks and not voluptuous, if modeſt in apparell and not proud and arrogant, if ſober minded and not given to ſenſualitie, then they thinke they have Religion enough, and that this duty of returning to Chriſt, and to his fold, is in vaine and needleſſe for them to looke after.</p>
+            <p>But I would to GOD that theſe men would conſider how that the very heathen that knew not Chriſt did equallize them in theſe morall matters, if they did not out-ſtrip them; and alaſſe alaſſe, what were they without Chriſt, and all their mo<g ref="char:EOLhyphen"/>rall vertues? What became of their perfections and their ver<g ref="char:EOLhyphen"/>tuous deſignes? Surely my brethren, the beſt that can be ſaid of them is that they were but <hi>[ſplendida peccata,]</hi> but gliſtring ſins, but ſhining vanities, and then I pray, what are we, and our righteouſneſſe? What are we and all our Temperance, and Iuſtice, and honeſty, and carefulneſſe, and liberality, and con<g ref="char:EOLhyphen"/>ſtancy, and moderation, and humility without CHRIST?<note place="margin">
+                  <hi>Iſa.</hi> 64.6.</note> Surely nothing elſe then an uncleane thing, and all our righte<g ref="char:EOLhyphen"/>ouſneſſe like filthie ragges: and therefore henceforward let the morall and honeſt meaning man thinke of a returne to Chriſt with all ſpeed and diligence, for being with him we are at the fountaine of life, and without him wee a e no better than in the bondage of death, and the re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſon is this,<note place="margin">1 <hi>Ioh.</hi> 2.1, 2</note> becauſe hee is our Advocate, and hee is the Propitiation for all our ſinnes.</p>
+            <p>Thirdly,<note place="margin">The carnall humouriſt to be repro<g ref="char:EOLhyphen"/>ved.</note> I muſt reprove our carnall humouriſts who ſome<g ref="char:EOLhyphen"/>times, will neglect and ſlight this duty of returning unto Chriſt, and to his fold, becauſe it doth croſſe their pleaſures, and other times againe becauſe it doth croſſe their profits. If that the religious performance of this ſo ſacred a dutie of returning to our bleſſed Saviour doe but croſſe their pleaſures, that they cannot put away farre from them the evill day, and cauſe the ſeate of violence to come neere unto them; that they cannot againe lye upon their beds of <hi>Ivory</hi> and ſtretch themſelves up<g ref="char:EOLhyphen"/>on
+<pb n="26" facs="tcp:58484:19"/> their couches,<note place="margin">
+                  <hi>Amos</hi> 6.3, 4 5.</note> and eate the Lambes out of the flock and the Calves out of the midſt of the ſtall; that they cannot chaunt to the Violl and drinke their Wine in Bowles; that they can<g ref="char:EOLhyphen"/>not with <hi>Zimri</hi> and <hi>Coſbi</hi> enjoy their unlawfull luſts,<note place="margin">
+                  <hi>Num.</hi> 25.6.</note> and with the deboiſt crue ſtay till the wine inflame them: then and preſentlie then they deale with this gracious exerciſe,<note place="margin">
+                  <hi>Iſa.</hi> 5.11.</note> with this duty of returning to our bleſſed Ieſus, even as our wanton Gallants deale with their hunting Horſes, when they are not for their ſports, they muſt to the mill. Or and if this ſacred duty doe but croſſe their profits that they cannot lye and ſell and get gaine; that they cannot joyne houſe to houſe, and field to field,<note place="margin">
+                  <hi>Iſa.</hi> 5.11. <hi>Amos</hi> 8.6.</note> that they cannot buy the poore for ſilver and the needy for a paire of ſhooes, that they cannot make the <hi>Ephah</hi> ſmall and the <hi>Shekel</hi> Great, and that they cannot falſifie the bal<g ref="char:EOLhyphen"/>lances by deceit, then and preſently then they behave them<g ref="char:EOLhyphen"/>ſelves like <hi>Naaman</hi> the <hi>Aſſyrian,</hi> deſiring to be excuſed and re<g ref="char:EOLhyphen"/>ſolving rather to loſe the favour and ſervice of the King of heaven, than the favour and countenance of their King here on earth, preferring profit before piety, and the pleaſures of ſin be<g ref="char:EOLhyphen"/>fore the fold of Chriſt, [ſaying,] with the Leper in the ſtory, <hi>in this thing the Lord pardon thy ſervant,</hi>
+               <note place="margin">2 <hi>Kin.</hi> 5.18</note> 
+               <hi>that when my maſter goeth into the houſe of Rimmon, to worſhip there, and hee leaneth on my hand;</hi> &amp;c. <hi>the Lord pardon thy ſervant in this thing.</hi> Before he promiſeth moſt abſolute obedience, and that hee would offer neither burnt offring nor ſacrifice to any other God ſave unto the Lord, as, 2 <hi>King.</hi> 5.17. but aſſoone as profit and commo<g ref="char:EOLhyphen"/>dity comes in his way, aſſoone as hee bethinkes himſelfe of his place at Court, hee frames an excuſe valuing his preferment under the King of <hi>Syria</hi> beyond the true ſervice of the eternall GOD. And ſo (for application) is it with our carnall humou<g ref="char:EOLhyphen"/>riſts, who when their converſion unto God begins to thwart their profit, that they muſt goe and leave all and follow CHRIST, they preſently fling up all, and crie out amaine <hi>[hic durus eſt ſermo,]</hi> this is a very hard ſaying, who can beare it?</p>
+            <p>Laſtly, I muſt reprove our Luke-warme <hi>Laodicean,</hi> who hath ſuch a conceit of his owne worth and ſanctity, as that he thinkes he hath no need in the world to have this duty taught and Preſt unto him; hee is holy enough already, zealous en<g ref="char:EOLhyphen"/>ough
+<pb n="27" facs="tcp:58484:19"/> already, carefull enough to be with Chriſt already, yea and ſufficiently enough already return'd to the fold of Chriſt: but alaſſe alaſſe, wee may juſtly apply to his breaſt and boſome the ſaying of him that hath the ſeven ſpirits of God and the ſe<g ref="char:EOLhyphen"/>ven ſtars,<note place="margin">
+                  <hi>Rev.</hi> 3.17.</note> whereas thou ſayeſt thou art rich and increaſed with goods, and haſt need of nothing; <hi>I tell thee that thou art wretch<g ref="char:EOLhyphen"/>ed and miſerable, and poore, and blind and naked.</hi> Such Luke-warm <hi>Laodiceans</hi> we may truly compare unto your benighted travel<g ref="char:EOLhyphen"/>lers, who when they are once out of the way thinke every ſtep they goe is very right, when there is not hardly a ſtep they ſtep but is quite contrary; and therefore I would counſel ſuch, as the holy Spirit counſelleth that Luke-warme Church, (namely) <hi>to buy gold tryed in the fire that they may be rich, and white rayment that they may be clothed, and that the ſhame of their nakedneſſe doe not appeare, and to annoint their eyes with eye-ſalve,</hi>
+               <note place="margin">
+                  <hi>Rev.</hi> 3 18.</note> 
+               <hi>that they may ſee.</hi>
+            </p>
+            <p>But having done with this reproofe,<note place="margin">Ob.</note> me thinkes I heare the bleeding boſome propounding a queſtion, and ſaying, if it bee ſuch a neceſſary matter with all care and diligence, to returne to the Fold of Chriſt, and ſo reproofe-worthy a corruption to neglect the dutie, and to continue aſtray; why then, when are Gods people ſaith he, bound in Conſcience to begin to take in hand this worke, and how in like manner muſt they looke for to performe the ſame?</p>
+            <p>For anſwer hereunto,<note place="margin">Sol.</note> let Gods Children in the firſt place know, that touching the time of their returning, it muſt not be procraſtinated and put off from day to day, but <hi>[ſubitò &amp; in praeſenti.]</hi> forthwith and out of hand, and the reaſon is taken from the words of our bleſſed Saviour [ſaying.<note place="margin">
+                  <hi>Mat.</hi> 3.10.</note>] For <hi>now is the Axe layd unto the roote of the Tree, every tree that bringeth not forth</hi> now <hi>good fruit, is hewen downe and cast into the fire;</hi> Now therefore is the acceptable time, <hi>now is the day of ſalvation;</hi> and againe ſaith the <hi>Holy Ghost, to day while it is called to day,</hi>
+               <note place="margin">
+                  <hi>Heb.</hi> 3.13.</note> exhort one another to returne to our bleſſed Saviour, leſt any of you be deceived <hi>through the deceitfulneſſe of ſinne, and againe, to day if you will heare his voyce harden not your hearts as in the provoc<g ref="char:EOLhyphen"/>cation.</hi>
+            </p>
+            <p>But here peradventure ſome one will object and ſay;<note place="margin">Ob.</note> put the caſe we doe not inſtantly endeavour to do this ſacred duty,
+<pb n="28" facs="tcp:58484:20"/> but doe delay the performance hereof till ſome certain yeares bee over our heads, and doe take the ſwindge and Career of our ſinnes, for a ſeaſon, perſwading our ſelves that the Lord will delay his comming to judgment, and ſo for the pre<g ref="char:EOLhyphen"/>ſent fill our ſelves with the delights and pleaſures of ſin, what? ſhall we not be receaved when we returne hereafter, as upon our death-beds, or in our dotage and the like?</p>
+            <p>
+               <note place="margin">Sol.</note>For anſwer hereunto, and that thou mayeſt be really reſol<g ref="char:EOLhyphen"/>ved and ſatisfied in this thine objection, and in this point of Divinitie; I would entreat thee my Chriſtian brother, to con<g ref="char:EOLhyphen"/>ſult with our Saviours words in this very caſe, who ſaith [that if an evill ſervant ſhall ſay in his heart, my maſter doth deferre his comming, and beginne to ſmite his fellowes and to eate and drinke with the drunken, ô <hi>that ſervants maſter will come in a day when he looketh not for him, and in an houre that hee is not aware of, and will cut him off, and will give him his p rtion with hypocrites and unbeleevers,</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 24, 49 50, 51.</note> 
+               <hi>there ſhall bee weeping and gnaſhing of teeth;</hi> ô then what will become of thy death-bed? what will become of thy dote-age?</p>
+            <p>
+               <note place="margin">Ob.</note>I but thou wilt reply and ſay again, though I doe delay and deferre my returning, yet I hope the way to good manners is never too late, tis never too late to doe good, tis never too late to returne to God.</p>
+            <p>
+               <note place="margin">Sol.</note>I anſwer, true it is, my Chriſtian brother, that the way to good manners is never too late, and that it is never too late to turne to God Almighty. But I pray what is the old ſay<g ref="char:EOLhyphen"/>ing?
+<q>[Qui non eſt hodiè, cras minùs aptus erit.]</q> Hee that is not ready for God to day, will hardly bee ready to morrow, and againe, how can God take it well at our hands, to ſacrifice the prime of our dayes to Sathan, and keepe the bran (to wit) our death-bed, or old age, or dote-age for his ſervice? nay and know further that though <hi>[reſcipiſcentia vera nunquam ſit ſera, tamen ſerararó vera.]</hi> Nay and though true returning to God Almighty be never too late, yet your pro<g ref="char:EOLhyphen"/>craſtinated lip-labour ſeldome proves true, for <hi>[dat Deus poeni<g ref="char:EOLhyphen"/>tenti veniam, quùm non peccanti poenitentiam.]</hi> God Almighty
+<pb n="29" facs="tcp:58484:20"/> many a time gives his pardon to many a bleeding boſom, when againe to other ſome he doth not give ſo much as grace as to aske for pardon, and therefore now take time while time is, delayes are dangerous, and put not off from day to day thy re<g ref="char:EOLhyphen"/>turning to the fold againe, but meditate and ruminate on the Preachers counſell, who leſſons thee to remember <hi>thy Crea<g ref="char:EOLhyphen"/>tor in the dayes of thy youth, while the evill dayes come not,</hi>
+               <note place="margin">
+                  <hi>Eccl.</hi> 12 1.</note> 
+               <hi>nor the yeares draw neere, wherein thou ſhalt ſay I have no pleaſure in them.</hi>
+            </p>
+            <p>Secondly, for our manner of returning to our bleſſed Savi<g ref="char:EOLhyphen"/>our and to the fold againe,<note place="margin">Five man<g ref="char:EOLhyphen"/>ner of wayes to be obſerved by all ſinners in returning to the fold a<g ref="char:EOLhyphen"/>gaine.</note> let Gods Children know that theſe directions and obſervations and rules following are to be per<g ref="char:EOLhyphen"/>formed and obſerved and put in practice; for there are 5 man<g ref="char:EOLhyphen"/>ner of wayes whereby wee muſt returne to Chriſt, and to his bleſſed fold.</p>
+            <p>Firſt, we muſt returne <hi>[cum humiliatione,]</hi> with all contri<g ref="char:EOLhyphen"/>tion of heart for offending our bleſſed Saviour, and for running aſtray from his fold, and the reaſon is this, becauſe <hi>[Deus mo<g ref="char:EOLhyphen"/>rum emendatione placatur, &amp; qui deſinit errare iram dei mortalem facit,]</hi> becauſe Gods wrath is appeaſed and pacified with the humiliation of our ſoules, and emendation of our manners, and he that leaves off from going aſtray, makes the wrath of God to become mortall, which otherwiſe would deſtroy him for ever: more inſtances we have in <hi>Ninive;</hi>
+               <note place="margin">Ion. 3.7. 1 Sam. 7.2 1 Chr. 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>3 2 Chr. 3<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>2</note> in the children of <hi>Iſrael</hi> weeping at <hi>Mizpah.</hi> In <hi>Rehoboam</hi> and <hi>Manaſſes,</hi> in <hi>Mary Magdalen,</hi> Saint <hi>Paul,</hi> and <hi>Peter,</hi> who all in an hum<g ref="char:EOLhyphen"/>ble deportment did demeane themſelves before the throne of grace, returning with all humiliation unto the great God they had offended; and therefore for concluſion of this point, for our parts, we ſhould behave our ſelves like <hi>Benhadad</hi> and his ſervants to <hi>Ahab,</hi>
+               <note place="margin">1 K<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n. 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>1</note> wee ſhould returne with ſackcloth on our loynes and with ropes on our heads, knowing the King of <hi>Jſrael</hi> is a mercifull King.</p>
+            <p>Secondly, or the ſecond manner of way how we are to re<g ref="char:EOLhyphen"/>turne to our bleſſed <hi>Ieſus,</hi> from whom wee have gone aſtray, even from our Cradles to this preſent houre, is this, wee muſt retu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne <hi>[cum fidelitate,]</hi> with an aſſured faith and confidence that his bloud and paſſion hath merited our redemption, and alſo hath merited an eternall acceptance for us into the fathers
+<pb n="30" facs="tcp:58484:21"/> love and favour againe, and the reaſon is this, [becauſe hee that believeth ſo ſhall be ſaved,<note place="margin">
+                  <hi>Mar.</hi> 16.16</note> but hee that beleeveth not ſo ſhall be damned. Oh therefore my brethren, let us draw neere with a true heart in full aſſurance of faith, having our hearts ſprinckled from an evill conſcience,<note place="margin">
+                  <hi>Heb.</hi> 10.22.</note> and our bodies waſh<g ref="char:EOLhyphen"/>ed with pure water.</p>
+            <p>Thirdly, wee muſt returne <hi>[cum deteſtatione iniquitatum,]</hi> with a loathing and deteſtation of our former converſations; we muſt be weary of the burthen and preſſure of our, ſins our former life in ſinne muſt bee no more pleaſant in our ſight than your bitter gall and worm-wood is to our taſtes and pal<g ref="char:EOLhyphen"/>lates; for ſo will the children of GOD behave themſelves when they returne to God,<note place="margin">
+                  <hi>Ezec.</hi> 36.31</note> according to the ſaying of the Pro<g ref="char:EOLhyphen"/>phet in this particular (ſaying) then ſhall you remember your owne evill wayes and your doings that were not good, and ſhall loth your ſelves in your owne ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ht, for your iniquities and for your abhominations.</p>
+            <p>Fourthly we muſt returne <hi>[cum ſinceritate,]</hi> with the ſince<g ref="char:EOLhyphen"/>ritie and integrity of all our hearts. Tis not enough for us to cry <hi>Lord, Lord,</hi> we returne to thee and to thy kingdome, and to do this only with a meere orall and verball expreſſion, with the utterance and declaration meerly of the lips and tongue; but we muſt performe and do it [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,] with and in the t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uth of the ſubſtance of our hearts ſincerely, loving nothing ſo dearely as to be with Chriſt: and therefore ſaith the bleſſed father of all mankinde,<note place="margin">
+                  <hi>Mat.</hi> 15.18</note> 
+               <hi>fili da mihi cor tuum</hi>] ſonne give mee thine heart, mightily diſliking and condemning all ſuch man<g ref="char:EOLhyphen"/>ner of men, whoſe lips are neere him, and whoſe hearts are far from him, yea and in great wrath and indignation threatning a moſt diſmall plague and miſery to fall upon them, and the kingdome wherein they live, according to the words of the Prophet (ſaying) becauſe this people honour mee with their lips, and their heart is removed far from me; therefore behold I will proceed to doe a marvellous worke amongſt this people, even a marveilous worke and a wonder, the wiſ<g ref="char:EOLhyphen"/>dome of their wiſe men ſhall periſh, <hi>and the underſtanding of the prudent ſhall be hid.</hi>
+               <note place="margin">
+                  <hi>Iſa.</hi> 29.14.</note>
+            </p>
+            <p>Fifthly, and laſtly, wee muſt returne <hi>[cum perſeverantia,]</hi> with continuall perſeverance, endeavouring this ſo ſacred a
+<pb n="31" facs="tcp:58484:21"/> duty, daily and hourely, nay even till our laſt breath, whereup<g ref="char:EOLhyphen"/>on ſaith <hi>Salomon</hi> [bee thou in the feare of the Lord all the day long, and he rendreth an effectuall reaſon for it, becauſe that he that wandreth out of the way of underſtanding ſhall remaine in the congregation of the dead.<note place="margin">
+                  <hi>Prov.</hi> 21.16.</note> It ought therefore to bee our daily care to bee continually buſied about ſo ſanctified a work, and the rather too,<note place="margin">
+                  <hi>Gal.</hi> 6.9.</note> becauſe as Saint <hi>Paul</hi> ſaith <hi>[metemus ſi non elanguerimus,] wee ſhall reape if we faint not,</hi> that is, wee ſhall enjoy the crop and harveſt of everlaſting glory if wee perſevere to the end without Apoſtacy; and therfore as S. <hi>Paul</hi> ſayth, be ſtedfaſt and unmoveable,<note place="margin">1 <hi>Cor.</hi> 15.58</note> alwayes abounding in the work of the Lord, for as much as we know that our labour is not in vaine in the Lord, I ſay not in vaine, becauſe alſo an un<g ref="char:EOLhyphen"/>corruptible Crowne of life God hath promiſed in his mercy to beſtow upon them;<note place="margin">
+                  <hi>Rev.</hi> 2.10. <hi>Mat.</hi> 24 13</note> witneſſe his words to <hi>Smyrna</hi> (thus) <hi>be faithfull unto the death, and J will give thee the Crowne of life;</hi> and againe, <hi>[qui perdurabit ad finem is ſervabitur,]</hi> hee that endures to the end the ſame ſhall be ſaved.</p>
+            <p>But how ſhall I know ſaith the wounded Conſcience,<note place="margin">Ob.</note> ſay<g ref="char:EOLhyphen"/>eth the remorſefull heart and boſome, that I doe obſerve all theſe rules and directions, that I returne to my bleſſed SA<g ref="char:EOLhyphen"/>VIOUR with Humiliation, with fidelitie, with a deteſta<g ref="char:EOLhyphen"/>tion of mine iniquities, with ſinceritie, and with perſe<g ref="char:EOLhyphen"/>verance?</p>
+            <p>For the reſolution of this point,<note place="margin">Sol.</note> that thou mayeſt undoub<g ref="char:EOLhyphen"/>tedly know when thou art effectually returned unto the great Shepheard and B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſhop of thy ſoule,<note place="margin">Divers cha<g ref="char:EOLhyphen"/>racters whereby wee may know when we from the practice of ſinne are re<g ref="char:EOLhyphen"/>turned to the fold of Chriſt. The firſt character. 1 <hi>Cor.</hi> 2.9.</note> take into conſidera<g ref="char:EOLhyphen"/>tion theſe Characters, which will infallibly informe thee whether thou beeſt return'd or not. Which characters are three.</p>
+            <p>Firſt, if thou beeſt effectually returned from the wilde and vaſt commons of ſinne, into the incloſure and paſturings of grace, (namely) unto the great Shepheard and Biſhop of thy ſoule; then thou wilt minde nothing more than the things of a better life (namely) which thy bleſſed Saviour hath prepared and laid up for thoſe that love him. An inſtance for confirma<g ref="char:EOLhyphen"/>tion hereof we have in Saint <hi>Paul,</hi> who being wean'd from the worlds vanities, and entred into the fold of CHRIST,
+<pb n="32" facs="tcp:58484:22"/> mindes nothing more than a diſſolution for to be with Chriſt [ſaying, <hi>Cupimus diſſolvi,] I deſire to be diſſolved and to be with Chriſt.</hi> Beſides, if it be ſo with thee, as is before ſpoken of, thou wilt have then ſuch an high eſteeme and conceit of the happineſſe that Chriſts Lambes enjoy and are partakers of within the fold, as that for other mundane tranſitory and pe<g ref="char:EOLhyphen"/>riſhing matters,<note place="margin">Phil. 3.8.</note> thou wilt account them no better than dung for to winne Chriſt. Oh then my brethren, how farre thinke you are thoſe men from the ſtate of holineſſe, yea from Chriſt and his fold, that minde nothing elſe but this world? how wretched are their meditations, yea ô how miſerably are their mindes peſtered with cankering cares? They lie downe in carefulneſſe, they riſe up in ſorrow, and the pelſe they dote on is reſerved to their owne hurt:<note place="margin">Eccl. 5.13.</note> for concluſion therefore of this point, ô you that are ſheep of Chriſts bleſſed paſture, that are Lambes of the flock and are within Gods pale, ſee that you ſhew it in your lives and converſations: let the things of a better life be the chiefeſt treaſure you ſet your minds upon; <hi>ſet your affections on things that are above,</hi>
+               <note place="margin">Col. 3.2.</note> 
+               <hi>and not on things that are below.</hi> Shew to the world that you are riſen with your bleſſed Saviour, by ſeeking thoſe things above <hi>where Chriſt ſitteth on the right hand of God. Yea ſeeke you firſt the kingdome of God and the righteouſneſſe thereof, and then all other things ſhall bee ad<g ref="char:EOLhyphen"/>ded unto you.</hi>
+               <note place="margin">Mat. 6.33.</note>
+            </p>
+            <p>Secondly, the ſecond Character<note place="margin">The ſecond Character.</note> to teſtifie to thine owne bo<g ref="char:EOLhyphen"/>ſome and alſo to all the world that thou art effectually retur<g ref="char:EOLhyphen"/>ned, is a mortifying or a ſanctified endeavouring to mortifie all manner of ſinne within thee, yea thy beloved ſinnes too, that heretofore thou haſt lov'd moſt dearely: if then thou per<g ref="char:EOLhyphen"/>ceiveſt not only the acts, but even the very concupiſcence and luſts after ſinne to bee dead within thee; if the very appea<g ref="char:EOLhyphen"/>rances of evill ſeeme abhominable in thy ſight, if there be a re<g ref="char:EOLhyphen"/>ſolution in thee not to diſpenſe with any of thy formerly be<g ref="char:EOLhyphen"/>loved and darling vanities, if the feare of God bee more pre<g ref="char:EOLhyphen"/>cious in thine eyes than the practice of any corruption what<g ref="char:EOLhyphen"/>ſoever, and if ſinne, yea all manner of ſinne whatſoever be as poyſon to thy thoughts, and as rottenbane in thy Meditations, then without all peradventure thou art in a moſt comforta<g ref="char:EOLhyphen"/>ble ſtate and condition, thou art got againe within the fold of
+<pb n="33" facs="tcp:58484:22"/> Chriſt, and art effectually returned to the great Shepheard and Biſhop of thy ſoule; and therefore ſay I now in this caſe to all the world, as once St. <hi>Paul</hi> did to the <hi>Coloſſians</hi> in the ſame. <hi>O mortifie therefore your members which are upon the earth,</hi>
+               <note place="margin">
+                  <hi>Col.</hi> 3.5.</note> 
+               <hi>forni<g ref="char:EOLhyphen"/>cation, uncleanneſſe, inordinate affections, evill concupiſcence and covetouſnes which is Idolatry for which things ſake the wrath of God commeth on the children of diſobedience.</hi> In ſhort therefore, that we all may be branded with this eare-marke of heaven, that we for our parts may be knowne to be ſheepe of Chriſts fold and Lambs of his flocke, let us deale with all our corruptions, nay with our beloved ſinnes too, as once <hi>Samſon</hi> dealt with the <hi>Philiſtines,</hi>
+               <note place="margin">
+                  <hi>I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d.</hi> 15.8. <hi>Ioſh.</hi> 11.11.</note> ſmiting them hippe and thigh with a great ſlaughter, and ſparing none. Or as <hi>Ioſhua</hi> dealt with <hi>Ha<g ref="char:EOLhyphen"/>zor,</hi> utterly deſtroying them all, leaving not one to breath. Yea in a word touching our beloved ſinnes, let us carry our ſelves to them, as <hi>Joſhuahs</hi> Captaines did towards the five Kings, <hi>let us even ſet our feete upon the necks of them,</hi>
+               <note place="margin">
+                  <hi>Joſh.</hi> 10.24 <hi>Ezek.</hi> 18.30.</note> 
+               <hi>and trample them into the duſt, and ſo our iniquities ſhall not be our ruine.</hi>
+            </p>
+            <p>Thirdly, and laſtly,<note place="margin">The third &amp; laſt cha<g ref="char:EOLhyphen"/>racter.</note> the laſt character whereby a man may know and moſt aſſuredly aſcertaine himſelfe, that he is effectu<g ref="char:EOLhyphen"/>ally returned to Chriſt, is a daily and a continuall longing af<g ref="char:EOLhyphen"/>ter the performance of the works of piety; ſo that if thou beeſt zealous of good works,<note place="margin">
+                  <hi>Tit.</hi> 2.14.</note> if with <hi>Zachary</hi> and <hi>Elizabeth</hi> thou ſtriveſt to be righteous, before God, walking in all the Commandements and Ordinances of the Lord blameleſſe,<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uk.</hi> 1.6. <hi>Acts</hi> 24.16.</note> if with Saint <hi>Paul</hi> thou doſt exerciſe <hi>thy ſelfe to have alwayes a conſcience voyd of offence towards God and towards men;</hi> If with the <hi>Cedars</hi> of <hi>Libanus</hi> thou groweſt greene in the City of our God,<note place="margin">
+                  <hi>Pſal.</hi> 92.12, 13. <hi>Pſal.</hi> 1.3.</note> if with the flouriſhing Palme Tree thou doſt flouriſh in the Courts of God, yea if like the Tree planted by the rivers of waters, thou bringeſt forth thy fruit in due ſeaſon; then without all queſtion, thou art in the wayes of life, thy condi<g ref="char:EOLhyphen"/>tion is the condition of Chriſts Lambs, thou art within the fold of grace, and eff<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctually retu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ned to the great ſhepheard and Biſhop of thy ſoule: but if on the contrary thou beeſt bar<g ref="char:EOLhyphen"/>ren like Mount <hi>Gilboa,</hi> if with <hi>Hym<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>naeus</hi> and <hi>Alexander</hi> thou makeſt ſhipwracke of thy faith, if with <hi>Demas</hi> thou be<g ref="char:EOLhyphen"/>takeſt thy ſelfe to the world, and forſakeſt the word;<note place="margin">1 <hi>Tim</hi> 1.19, 10.</note> yea if
+<pb n="34" facs="tcp:58484:23"/> with <hi>Demas</hi> thou betakeſt thy ſelfe to the world and forſakeſt the word;<note place="margin">2 <hi>Tim.</hi> 4.10</note> yea if with <hi>Iſaiahs</hi> greedy dogges thou canſt never have enough of ſin, ſaying, <hi>come let us fill our ſelves with ſtrong drink,</hi>
+               <note place="margin">
+                  <hi>Iſay</hi> 56.12.</note> 
+               <hi>and tomorrow ſhall be as this day, and much more abundant,</hi> then it is a very feareful ſigne, that thou art in the ſtate of unre<g ref="char:EOLhyphen"/>generation,<note place="margin">
+                  <hi>Deut.</hi> 32 32</note> 
+               <hi>that thy Vine is the Vine of</hi> Sodom, <hi>and of the fields of</hi> Gomorrha, <hi>that thy grapes are grapes of gall, and that thy cluſters are bitter:</hi> and therefore in this caſe I ſay unto thee, as once the Prophet <hi>Hoſea</hi> ſaid unto back ſliding Iſrael.<note place="margin">
+                  <hi>Hoſ.</hi> 14.1, 2.</note> 
+               <hi>O Iſrael returne unto the Lord thy God, for thou haſt fallen by thine iniquities.</hi>
+            </p>
+            <p>And thus much for the action and duty of our returning, come wee now to the object, which wee call <hi>[terminum ad quem,]</hi> the principall party to whom wee are to bend our courſe, illuſtrated and ſet forth unto us by two Titles of office. <hi>(viz.)</hi> [Shepheard and Biſhop, and that with this comfor<g ref="char:EOLhyphen"/>table qualification too, <hi>[animarum veſtrarum]</hi> of your ſoules, To the <hi>Shepheard and Biſhop of your ſoules.</hi>
+            </p>
+            <p>And firſt <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to the Shepheard.</p>
+            <p>
+               <note place="margin">Our bleſſed Saviour Ie<g ref="char:EOLhyphen"/>ſus Chriſt was an ab<g ref="char:EOLhyphen"/>ſolute Shep<g ref="char:EOLhyphen"/>heard three manner of wayes.</note>That our bleſſed Saviour Ieſus Chriſt bleſſed for evermore is called a Shepheard, Saint <hi>Paul</hi> doth reſtifie, as well as our Apoſtle Saint <hi>Peter</hi> here in the Text, calling him, [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] that great ſhepheard of the ſheepe; which of<g ref="char:EOLhyphen"/>fice of his alſo to be a ſhepheard, will appeare more plainely, if we conſider three things.</p>
+            <list>
+               <item>1. His calling to the office.</item>
+               <item>2. The Shepheardly inſtruments and proviſions which hee uſeth in performing the office.</item>
+               <item>3. His faithfulnes in the exact performance of the ſame.</item>
+            </list>
+            <p>Firſt, our bleſſed Saviours calling to the office, ſhewes that hee came not thereunto by violent intruſion, but in and by a lawfull way, even being called thereunto from the very womb and therfore tearmes himſelfe,<note place="margin">
+                  <hi>Iſa</hi> 49.1. <hi>Ioh.</hi> 10.11.</note> [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] the good Shep<g ref="char:EOLhyphen"/>heard. Others that come not in ſo by the doore, are theeves and robbers.</p>
+            <p>Secondly, the ſhepheardly inſtruments and proviſions which hee uſeth in the performance of this his ſhepheards of<g ref="char:EOLhyphen"/>fice, declare him to be an abſolute ſhepheard alſo, which inſtru<g ref="char:EOLhyphen"/>ments firſt are theſe.</p>
+            <pb n="35" facs="tcp:58484:23"/>
+            <p>Firſt, he hath <hi>[virgam &amp; baculum &amp; Hamum conſolationis.</hi>
+               <note place="margin">
+                  <hi>Pſal</hi> 23.4.</note>] hee hath his rod and his ſtaffe and his crooke to comfort his flocke withall, as that neither Tyrants nor Heretickes nor de<g ref="char:EOLhyphen"/>vils ſhall doe them wrong,<note place="margin">
+                  <hi>Ezek.</hi> 34.25</note> but they ſhall ſleepe as the Prophet ſaith, ſafely in the woods. Beſides he hath <hi>[notam cognitionis]</hi> he hath his brand and his eare-mark whereby he knowes them,<note place="margin">
+                  <hi>Ioh.</hi> 10.27.</note> ſaying, <hi>agnoſco eas, I know them.</hi>
+            </p>
+            <p>Next he hath <hi>[fiſtulam directionis,]</hi> his ſhepheards whiſtle, his Shepheards call, to order them how they ſhall goe, and thereupon ſaith himſelfe [<hi>oves meae audiunt vocem meam,</hi>
+               <note place="margin">
+                  <hi>Ioh.</hi> 10 27.</note>] <hi>My ſheepe heare my voyce, and J know them, and they follow me.</hi> Thus much for the inſtruments he uſeth in the office, his ſhepheardly proviſions follow.</p>
+            <p>Firſt, our bleſſed ſhepheard, to ſhew himſelfe a carefull ſhepheard over his flock provides for them,<note place="margin">
+                  <hi>Joh.</hi> 10.16.</note> 
+               <hi>[unum &amp; bonum ovile,] one good Fold.</hi> One in reſpect of the unitie of conſent in Religion, and therefore as they are of one fold,<note place="margin">
+                  <hi>Acts</hi> 4.32.</note> ſo alſo ſhall they be of one heart and of one ſoule, like the multitude of the Converts; or like <hi>Jſaiahs</hi> penitents comming from farre, ſome from the North, ſome from the Weſt,<note place="margin">
+                  <hi>Jſa.</hi> 49.12. <hi>Ezek.</hi> 34.13.</note> and ſome from the Land of <hi>Sinim,</hi> but all to Gods Mountaine, all to Chriſts fold. And good in reſpect of having an immunitie or freedome from all danger whatſoever, for they ſhall not hunger nor thirſt, nei<g ref="char:EOLhyphen"/>ther ſhall the heate nor ſun ſmite them.<note place="margin">
+                  <hi>Iſa.</hi> 49.10. <hi>Ezek.</hi> 34.14</note> Now as touching the place where this fold ſhall be, <hi>Ezekiel</hi> calleth the high moun<g ref="char:EOLhyphen"/>taines of <hi>Iſrael.</hi>
+            </p>
+            <p>Secondly, or the ſecond proviſion that our bleſſed Saviour, the great Shepheard of our ſoules cares for for his flock, wher<g ref="char:EOLhyphen"/>by he ſhewes himſelfe to be a carefull ſhepheard indeed, is <hi>[paſ<g ref="char:EOLhyphen"/>cua jucundiſſima,]</hi> he provides moſt wholſome, and moſt plea<g ref="char:EOLhyphen"/>ſant feeding for them.<note place="margin">
+                  <hi>Cant.</hi> 6.2. <hi>Ezek.</hi> 34.13 <hi>Pſal.</hi> 23.2.</note> 
+               <hi>Salomon</hi> in his <hi>Canticles</hi> calls them beds of ſpices: <hi>Ezekiel</hi> the mountaines of <hi>Iſrael,</hi> and the in<g ref="char:EOLhyphen"/>habited places of the Country, and the Pſalmiſt <hi>David</hi> calls them greene paſtures; all which inſinuate Chriſts wonder<g ref="char:EOLhyphen"/>full care and love, in ſo richly providing for his beloved flocke,<note place="margin">
+                  <hi>Ezek</hi> 34 29</note> telling alſo that he will raiſe up for them a plant of re<g ref="char:EOLhyphen"/>nowne.</p>
+            <p>Thirdly, hee provides for his flocke to ſhew teſtimony of
+<pb n="36" facs="tcp:58484:24"/> his infinite care and love towards them <hi>[medicamina ſalu<g ref="char:EOLhyphen"/>berrima,]</hi> all the wholſome medicines that can be imagined for their cure, and therefore ſaith, that he will not only ſeeke that which was loſt, and bring againe that which was driven away,<note place="margin">
+                  <hi>Ezek.</hi> 34.16</note> but will binde up that which is broken, and will ſtrengthen that w<hi rend="sup">ch</hi> is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ick and wil feed them with judgment.</p>
+            <p>
+               <note place="margin">
+                  <hi>Pſal.</hi> 23 2.</note>Fourthly, he provides <hi>[aquaria ſuaviſſima,]</hi> moſt ſweete waterings for his flocke. The Pſalmiſt calls them the waters of comfort. The Prophet <hi>Iſaiah</hi> calls them the ſprings of wa<g ref="char:EOLhyphen"/>ter,<note place="margin">
+                  <hi>Iſa.</hi> 49.10.</note> [ſaying] even by the ſprings of water ſhall hee guide them.<note place="margin">
+                  <hi>Rev.</hi> 7.17.</note> Yea and Saint <hi>Iohn</hi> in his Revelation calls them the living fountaines of waters, (ſaying, he ſhall leade them un<g ref="char:EOLhyphen"/>to living fountaines of waters, yea and he tearmes them elſe<g ref="char:EOLhyphen"/>where the fountaine of the water of life [ſaying] I will give unto him that is athirſt of the fountaine of the water of life freely.<note place="margin">
+                  <hi>Rev.</hi> 21.6.</note> All which moſt pregnantly illuſtrate this ground of truth, that the flock of our Lord and Saviour Ieſus Chriſt bleſ<g ref="char:EOLhyphen"/>ſed for evermore, ſhall have all neceſſaries whatſoever, and ſhall want no manner of thing that is good.</p>
+            <p>Laſtly, he provides for them <hi>[refrigerium tranquillum,]</hi> a peacefull quiet and a moſt reſt-full Lare,<note place="margin">
+                  <hi>Ezek</hi> 3<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.15</note> [ſaying,] <hi>I will feed my flocke, and I will cauſe them to lye downe, ſaith the Lord God;</hi> and again,<note place="margin">
+                  <hi>Ezek.</hi> 34.28</note> 
+               <hi>they ſhall no more be a prey to the heathen, neither ſhall the beaſts of the Land devoure them, but they ſhall dwell ſafely, and none ſhall make them afraid;</hi> Yea I will make a covenant of peace with them,<note place="margin">
+                  <hi>verſe</hi> 25.</note> ſaith the great Shepheard, and will cauſe the evill beaſts to ceaſe out of the Land, and they ſhall dwell ſafely in the wilderneſſe, and ſleep in the woods; whence briefely ap<g ref="char:EOLhyphen"/>peares thus much, as is before ſpecified, how Chriſts flock have a comfortable lare, a comfortable reſting place, and how that they ſhall lye downe in peace, and no one ſhall make them af<g ref="char:EOLhyphen"/>fraid.</p>
+            <p>The third point now wherein our bleſſed Saviour ſhewed himſelfe to be an abſolute Shepheard, is his faithfulneſſe in the exact performance of that his office; Which faithfulneſſe he ſhewed two manner of wayes.</p>
+            <list>
+               <item>Firſt, <hi>In quaerendo oves,</hi> in ſeeking out his flock.</item>
+               <item>Secondly, <hi>In tradendo vitam ejus propter oves,</hi> in delivering up his life for his flockes ſake.</item>
+            </list>
+            <pb n="37" facs="tcp:58484:24"/>
+            <p>Firſt, I ſay,<note place="margin">
+                  <hi>Mat.</hi> 15.24</note> hee ſhewed his faithfulneſſe in the exact per<g ref="char:EOLhyphen"/>formance of his ſhepheards Office, by ſeeking out his flocke; and thereupon profeſſeth to all the world, that he was ſent to the loſt ſheep of the houſe of <hi>Iſrael,</hi> and again, I am not come to call the righteous ſaith he, but ſinners to repentance; and a<g ref="char:EOLhyphen"/>gaine he ſaith, behold I, even I will both ſearch my ſheep and ſeeke them out, and as a ſhepheard ſeeketh out his flock in the day that he is among his ſheep that are ſcattered,<note place="margin">
+                  <hi>Ezek.</hi> 34 11, 12.</note> ſo will I ſeeke out my ſheepe, and will deliver them out of all places wher<g ref="char:EOLhyphen"/>by they have bin ſcattered in the cloudy and darke day, ſaith the Lord God.</p>
+            <p>Secondly, hee ſhewed his faithfulneſſe in the exact perfor<g ref="char:EOLhyphen"/>ming of his ſhepheards office, by delivering up his life for his flockes ſake. Hee who being in the forme of GOD,<note place="margin">
+                  <hi>Phil.</hi> 2, 6.</note> and thought it not robbery to be equall with God, made himſelfe for his flockes ſake of no reputation, yea humbled himſelfe and became obedient unto death, even the death of the Croſſe for his flockes redemption. Oh my Chriſtian brethren, was there ever ſhepheards love like to the love of this our great Shep<g ref="char:EOLhyphen"/>heard? Oh here is love paſſing the love of women! Many ſhepheards there are which peradventure will be very carefull for the ſafety of their flocks, but never any ſhepheard ſave this our great Shepheard, the ſhepheard of our ſoules, that ever laid downe his life for to ſave his ſheep. He did it alone,<note place="margin">
+                  <hi>Gal.</hi> 3.13.</note> and none but he, ſuffering himſelfe to be made a curſe for us, that wee might obtaine the bleſſing of the Father through him, and thereupon tearmes himſelfe to be, and that meritoriouſly <hi>[Pa<g ref="char:EOLhyphen"/>ſtor ille bonus]</hi> that rare and excellent and good Shepheard, that did dare to doe ſuch a matter for his flockes ſalvation, profeſſing farther, that as the father did know him, that ſo hee did know the Father,<note place="margin">
+                  <hi>Ioh.</hi> 10.15.</note> and that he did lay downe his life for his ſheepe.</p>
+            <p>And thus much for the firſt title of the office which our A<g ref="char:EOLhyphen"/>poſtle Saint <hi>Peter</hi> renders to our bleſſed Saviour here (namely) that hee was a ſhepheard: come we now to the ſecond (name<g ref="char:EOLhyphen"/>ly,) that he was a Biſhop alſo, and that <hi>[animarum veſtrarum]</hi> the Biſhop of your ſoules, as in the words of the Text, but now are yee returned to the great Shepheard and Biſhop of your ſoules.</p>
+            <q>
+               <pb n="38" facs="tcp:58484:25"/>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; and Biſhop.</q>
+            <p>As our bleſſed Saviour is called a Shepheard from governing and guiding his flock; ſo is he moſt juſtly called a Biſhop from his teaching and inſtructing them. [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>ab</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,] from the overſeeing or looking into, or ſearching, or throughly conſidering the nature of his flocke, for ſo did our bleſſed Saviour carry himſelfe towards his bleſ<g ref="char:EOLhyphen"/>ſed Lambes, even from the manger to Mount <hi>Calvary,</hi> even from <hi>Maries</hi> wombe to <hi>Golgotha.</hi> In ſhort therefore, let all the world know that our Saviour was a true and reall Biſhop, and that becauſe too all the ſignifications, all the interpre<g ref="char:EOLhyphen"/>tations, Nay, all the full and whole meaning of the word [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] that is to ſay, Biſhop, as in their proper place and center met in him.<note place="margin">Three man<g ref="char:EOLhyphen"/>ner of waies is our Savi<g ref="char:EOLhyphen"/>our juſtly to be tearmed Biſhop.</note> Three manner of wayes therefore in briefe may wee call our bleſſed Saviour an abſolute and reall Biſhop.</p>
+            <list>
+               <item>1. In reſpect of the ſignifications of the word [<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>] of the word Biſhop, which were ſeene upon him.</item>
+               <item>2. In reſpect of the qualifications of a Biſhop by the ſpi<g ref="char:EOLhyphen"/>rits cenſure.</item>
+               <item>3. And laſtly in reſpect of all the comfortable agents, that were ever uſed in any Dioceſſe for the comforting of Gods Church.</item>
+            </list>
+            <p>Firſt, therefore as your [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] is <hi>inſpector,</hi> is and ought to bee an over-ſeer and a Controller,<note place="margin">
+                  <hi>Iſa.</hi> 49.1.</note> ſo fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> application in this reſpect may our bleſſed Saviour bee juſtly tearm'd to be [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> a Biſhop,] and the reaſon is this, becauſe the Father gave him for this end and purpoſe, and called him even from the wombe and from the bowels of his mother, (namely) to raiſe up the tribes of <hi>Iacob</hi> and to reſtore the preſerved of <hi>Jſ<g ref="char:EOLhyphen"/>rael.</hi>
+               <note place="margin">
+                  <hi>Jſa.</hi> 49.6.</note> Yea, and alſo to bee a light to the <hi>Gentiles,</hi> and ſalvation unto the ends of the earth. Yea and our bleſſed Saviour him<g ref="char:EOLhyphen"/>ſelfe to ſhew his care and overſight that he was an overſeer of his flock, ſaying thus, [<hi>I will bring the blind by a way that they know not,</hi>
+               <note place="margin">
+                  <hi>Iſa.</hi> 42.16.</note> 
+               <hi>I will lead them in paths that they have not knowne, I will make darkeneſſe light before them and crooked things ſtraight.</hi> Next that hee was a controller over the flocke, let his owne words be judge, ô ſaith he [ſpeaking to your evill and wicked
+<pb n="39" facs="tcp:58484:25"/> Paſtors, becauſe you have thruſt with the ſide and ſhoulder,<note place="margin">
+                  <hi>Ezek.</hi> 34.21, 22.</note> and puſht all the diſeaſed, with your hornes, till you ſcattered them abroad, therefore will I ſave my flocke, and they ſhall bee no more a prey, and I will judge betweene cattell and cattell.</p>
+            <p>Secondly, as the word [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] is one, <hi>[qui alicui rei curandae praefectus est,]</hi> I ſay is one, that is ruler and governour over any thing that is to be cared for, ſo for application alſo in this reſpect may our Saviour juſtly be tearm'd a Biſhop, being chiefe ruler and governour over the flocke of God, that was to be cared for: and to be redeem'd from death and thraldome, and hereupon the Prophet <hi>Zachary</hi> ſpeaking of this our bleſſed <hi>Biſhop</hi> and of this rule and government,<note place="margin">
+                  <hi>Zech.</hi> 9.10, 11.</note> ſaith that his domini<g ref="char:EOLhyphen"/>on ſhall be even from ſea to ſea, and from the river even to the ends of the earth,<note place="margin">
+                  <hi>Mich.</hi> 5.4.</note> and that by the bloud of his covenant hee ſhall ſend forth the priſoners out of the pit. <hi>Yea and he ſhall be great unto the ends of the earth, and againe, his government ſhall be upon his ſhoulders, and of his rule and Dominion ſhall there be no end.</hi>
+            </p>
+            <p>Thirdly as the word [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> namely Biſhop, ſignifieth <hi>[cuſtos]</hi> to bee a watch-man or Guardian <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r keeper or preſer<g ref="char:EOLhyphen"/>ver, ſo for application, may our bleſſed Saviour be tearm'd a Biſhop in this reſpect alſo, for he is the carefull watchman of <hi>Iſrael that neither ſlumbers nor ſleepes;</hi>
+               <note place="margin">
+                  <hi>Pſal.</hi> 127.2 <hi>Rev.</hi> 21.6. <hi>Iſa.</hi> 49.10. <hi>Iohn</hi> 10.28</note> 
+               <hi>he is the poore ſoules guar<g ref="char:EOLhyphen"/>dian, and the flockes guide, leading them to the fountaine of life, to the Criſtall ſtreames of comfort, he is their keeper and preſerver, ſuffering not ſo much as one of them to be loſt, but giving unto them for their everlaſting inheritance life eternall.</hi>
+            </p>
+            <p>Laſtly as your word [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Biſhop] is by its cleare <hi>Etymologie,</hi> one that is <hi>[ad ſcopum tendens]</hi> one that is ſtill tending and looking toward the marke, ſo for application, in this reſpect alſo may our bleſſed Saviour bee juſtly tearmed to be a true and a reall Biſhop; ô my brethren, what I pray did he looke unto elſe ſave the marke that was ſet before him? ſave fulfilling his Fathers will in dying for the ſins of the world? ſave in doing his fathers commands in ſatisfying of his wrath and juſtice? Surely my brethren, hee ſhewes himſelfe ſo abſo<g ref="char:EOLhyphen"/>lute in this nature to be a Biſhop, <hi>[ad ſcopum tendens,]</hi> looking ſtill towards the marke, looking ſtill to performe obedience
+<pb n="40" facs="tcp:58484:26"/> and to doe his fathers will, as that when the extreame bitter<g ref="char:EOLhyphen"/>neſſe and anguiſh of death was preſented unto his eyes,<note place="margin">
+                  <hi>Mat.</hi> 26.38</note> when his ſoule beginnes to be exceeding ſorrowfull and heavie even unto death, nay when his bloudy agony is ſo violent, and ſo cruell on him, as that his ſweate was like great drops of bloud falling downe to the ground, yet hee turnes not his eye aſide from the marke that was ſet before him, he ſhrinkes not one jot from his reſolutions of obedience,<note place="margin">
+                  <hi>Mar.</hi> 14.36.</note> but expreſſeth him<g ref="char:EOLhyphen"/>ſelfe thus, <hi>(viz.)</hi> Father not what I will, but even what thou wilt.</p>
+            <p>Furthermore ſhould any one make ſcruple or doubt of the realitie of CHRISTS Epiſcopacy, hee ſhall finde that all the divine qualifications wherewithall a Biſhop is to be qua<g ref="char:EOLhyphen"/>lifyed by the cenſure of the Holy Ghoſt, were really found up<g ref="char:EOLhyphen"/>on him.</p>
+            <p>
+               <note place="margin">1 <hi>Tim.</hi> 3.2, 3 4.</note>Which qualifications are thirteene.</p>
+            <p>
+               <note place="margin">Thirteene qualificati<g ref="char:EOLhyphen"/>ons, to qua<g ref="char:EOLhyphen"/>lifie a good Biſhop. <hi>Lev.</hi> 21.17.</note>Firſt, a Biſhop muſt bee [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,] blameleſſe <hi>[repre<g ref="char:EOLhyphen"/>henſioni non obnoxius,]</hi> not worthie reprehenſion, he muſt be without ſpot or blemiſh, as was typified and prefigured in the ſonnes of <hi>Aaron;</hi> who if they had any ſpot or blemiſh at all, were not to preſume to approch to offer the bred of their God. And thus for application was our bleſſed Saviour a right, and a true Biſhop indeed,<note place="margin">
+                  <hi>Luk.</hi> 23.4, 25.</note> in whom Pilate, as hee teſtified to the chiefe Prieſts, could find no fault at all, no nor yet <hi>Herod,</hi> being as the Prophet <hi>Iſaiah</hi> ſaith,<note place="margin">
+                  <hi>Iſa.</hi> 53.9.</note> one that had done no violence, nei<g ref="char:EOLhyphen"/>ther was there any deceite found in his mouth.</p>
+            <p>Secondly, or the ſecond qualification of a Biſhop is, he muſt be [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">1 <hi>Sam.</hi> 2.22</note>] he muſt be the Husband of one Wife, not incontinent like <hi>Hophni</hi> and <hi>Phineas;</hi> but hee muſt bee [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,] undefiled, and not diſtain'd with uncleannes, his cha<g ref="char:EOLhyphen"/>ſtitie muſt be uncorrupted,<note place="margin">
+                  <hi>Luk.</hi> 1.6.</note> like <hi>Zacharies</hi> and <hi>Elizabeths,</hi> not daring with <hi>Ioſeph</hi> to do that great wickednes and ſin againſt God,<note place="margin">
+                  <hi>Gen.</hi> 39.9.</note> and in this regard was our Ieſus a perfect Biſhop cleav<g ref="char:EOLhyphen"/>ing to his Spouſe alone and affectionating none beſides (ſay<g ref="char:EOLhyphen"/>ing) I am come into my garden, my Siſter, my Spouſe, I have gathered my Myrrhe with my ſpice,<note place="margin">
+                  <hi>Cant.</hi> 5.1.</note> and I have eaten my ho<g ref="char:EOLhyphen"/>ny Combe with my hony.</p>
+            <pb n="41" facs="tcp:58484:26"/>
+            <p>Thirdly, he muſt be [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,] hee muſt bee vigilant and watchfull, vigilant to feede the flocke, and watchfull to chaſe away all noyſome and hurtfull beaſts; and in this reſpect too, was our bleſſed Ieſus a moſt abſolute and bleſſed Biſhop,<note place="margin">
+                  <hi>Ezek</hi> 34.<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </note> ſaying concerning his flocke, <hi>[viz.] J will feede my flocke, I will cauſe them to lie down, yea I will cauſe the evill beasts to ceaſe out of the Land,</hi>
+               <note place="margin">
+                  <hi>ver.</hi> 25.26.</note> 
+               <hi>and I will make them and the places round about my hill a bleſſing.</hi>
+            </p>
+            <p>Fourthly he muſt be [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,] ſober and of a moderate temper, having command alſo over diſtracted paſſions, and unruly nature. And thus for application alſo was our bleſſed Sa<g ref="char:EOLhyphen"/>viour a perfect Biſhop,<note place="margin">
+                  <hi>Mar.</hi> 6.3.</note> who when he was nick-nam'd with the flout of Carpenters ſon,<note place="margin">
+                  <hi>Mat.</hi> 9.34.</note> when againe the Phariſees geer'd him and ſaid that he did caſt out devils through <hi>Beelzebub</hi> the Prince of the devils, is not for all this moved one jot at all but remaines ſtill [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,] of an unmoveable and an unalterable moderate cariage and converſation thus, (namely) teaching ſtill in their Synagogues, preaching ſtill the Goſpell of the kingdome,<note place="margin">
+                  <hi>ver.</hi> 35.</note> 
+               <hi>and healing ſtill</hi> (notwithſtanding all their barba<g ref="char:EOLhyphen"/>rous language,) every ſickneſſe, and every diſeaſe amongſt the people.</p>
+            <p>Fifthly he muſt be [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,] of good behaviour, not giving offence in his deportment and demeanour of life, but obeying the Lawes. And in this way did the eternall Meſſias our bleſſed Saviour ſhow himſelfe to be a right Biſhop alſo; for being at <hi>Capernaum,</hi> with <hi>Peter,</hi> where tribute was demanded and paid, and knowing too, that as ſtrangers were liable to the obſervation of the tax, ſo on the other hand, it was as true that the children were free, yet that he might ſhew himſelfe to bee [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] of good behaviour and without offence,<note place="margin">
+                  <hi>Mat.</hi> 17.27.</note> hee wills <hi>Peter</hi> to goe to the Sea for the piece of money that was in the fiſhes mouth, ſaying, take it and give it them for me and thee.</p>
+            <p>Sixthly he muſt be [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] given to hoſpitality, he muſt not have <hi>[palmam contractam, ſed expanſam]</hi> a Nabal-like and a miſerable and a niggardly nature and condition, but a free and open hand to all the world; and after this ſort for applica<g ref="char:EOLhyphen"/>tion too, was the eternall Sonne of God a perfect Biſhop in<g ref="char:EOLhyphen"/>deed, for when he had but 5. barly loves and two ſmall fiſhes, as a man may ſay, in all the world, (though we confeſſe as he was
+<pb n="42" facs="tcp:58484:27"/> 
+               <hi>God,</hi> ſo all the beaſts of the Forreſt were his, and likewiſe the cattell upon a thouſand hils) and when too he was in a Moun<g ref="char:EOLhyphen"/>taine, a place of hunger, and an argument ſufficient rather to keep that which a man had for his owne lively-hood, than to part with any, eſpecially to ſtrangers that he never ſaw before; yea and when too, the people were ſo many (to wit) in num<g ref="char:EOLhyphen"/>ber about five thouſand, which was enough to give cauſe to fleſh and bloud to dread a famine and a want, ſhould they part with that they had;<note place="margin">
+                  <hi>Ioh.</hi> 6.10.11</note> the number too of the people being ſo great, and the proviſion ſo ſmall, I ſay notwithſtanding all theſe difficulties, doth our bleſſed Biſhop diſtribute with a mercifull and an open hand all the proviſion that he had for the preſent, and moſt miraculouſly practiſeth his hoſpitality upon the whole multitude.</p>
+            <p>Seventhly, or the ſeventh qualification of a Biſhop, is, hee muſt be [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,] apt to teach, Readie to inſtruct, yea in-ſeaſon and out of ſeaſon muſt be divide the word;<note place="margin">
+                  <hi>Iſa</hi> 25.10, 11</note> dumb-dogs, that neither can, or will not barke, are farre unworthy of ſo high a function:<note place="margin">
+                  <hi>Jſa.</hi> 58 1.</note> he muſt cry aloud and ſpare not, that comes within the compaſſe of this ſacred office: and for application, moſt condignly then for this cauſe certainely, is our heavenly Advocate tearmed and ſtiled a Biſhop, by our Apoſtle: for who was more ready to teach then our bleſſed Saviour? who more willing to learne the ignorant then he? and who more ear<g ref="char:EOLhyphen"/>neſt to have men be his Diſciples then he was? look unto him, upon the Sabboth dayes, and you finde him teaching in the Sy<g ref="char:EOLhyphen"/>nagogues; look unto him upon the weeke dayes, and you find him teaching ſtill, ſometimes in Mountaines, ſometimes in de<g ref="char:EOLhyphen"/>ſarts, ſometimes upon the Sea, ſometimes by the ſea-ſide; all wayes teaching, never out of action. Whereupon ſaith <hi>Salo<g ref="char:EOLhyphen"/>mon</hi> (ſpeaking of our bleſſed Saviour) doth not wiſdome cry,<note place="margin">
+                  <hi>Pro.</hi> 8.1, 2, 3, 4, 5.</note> and underſtanding put forth her voyce? ô ſhe ſtandeth in the top of high places, by the way, in the places of the paths, yea ſhe cryeth at the gates, at the entry of the City, at the comming in at the dores.</p>
+            <p>Eightly, he muſt be [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,] not given to wine, not like the Prophet <hi>Iſaiahs</hi> greedy dogs,<note place="margin">
+                  <hi>Iſa.</hi> 56 11, 12</note> which can never have enough, ſaying one to the other, I will fetch wine, and wee will fill our ſelves, with ſtrong drinke; and to morrow ſhall
+<pb n="43" facs="tcp:58484:27"/> be as this day, and much more abundant; but he muſt be <hi>[tem<g ref="char:EOLhyphen"/>perantiae filius]</hi> carefully abſtemious, by all manner of meanes, in this particular, looking, that whenſoever he makes himſelfe partaker of that creature of God, that he doe not forget God the Creator, but receive it, according to the Goſpells rule, for his ſtomacks ſake, and often infirmities. For application in this point;<note place="margin">
+                  <hi>Luk.</hi> 21.34.</note> moſt truly may our bleſſed Saviour bee call'd a Bi<g ref="char:EOLhyphen"/>ſhop, for this cauſe, who all his life time, practic'd temperance in the higheſt degree, adviſing all in the feare of God, to take heede of ſurfetting, drunkenneſſe, and the cares of this life, leaſt the day of judgment come upon them unawares.</p>
+            <p>Ninthly, he muſt be [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] no ſtriker, that is <hi>[non ad horrida promptus arma,]</hi> not deſperately forward to mannage ruffianlike broyles: For Gods Miniſters are peaces meſſengers, and the ſtroakes and wounds which they are to lay on ſinners, are to be made <hi>[gladio oris, non ore gladij,]</hi> with the ſword of the mouth, not with the mouth of the ſword. For applica<g ref="char:EOLhyphen"/>tions ſake, our bleſſed Redeemer bleſſed for evermore, was an apparent Biſhop in this kind of circumſtance alſo, for when that <hi>Iudas</hi> had betrayed him into the hands of ſinners,<note place="margin">
+                  <hi>Luk.</hi> 22.49.</note> and when that thoſe which were about him, ask't whether they ſhould ſmite with the ſword or no, yea and when <hi>Peter</hi> had ſmote off <hi>Malchus</hi> his eare,<note place="margin">
+                  <hi>Mat.</hi> 26 52</note> our Saviours counſel ſtraightway is given thus. Put up thy ſword into his place, for they that take the ſword, ſhall periſh with the ſword. But here perchance,<note place="margin">Ob.</note> you will object and ſay that Chriſt was a ſtriker, becauſe hee made a ſcourge of ſmall Cords,<note place="margin">
+                  <hi>Joh.</hi> 2.15.</note> and drave out the prophaners out of the Temple, with their Sheepe and Oxen, throwing downe alſo the tables of the money-changers, and reproving others that ſold <hi>Doves.</hi>
+            </p>
+            <p>To which I anſwer, and ſay, firſt,<note place="margin">Sol.</note> that we do not poſitive<g ref="char:EOLhyphen"/>ly read, of any blow or ſtroake which Chriſt gave, though that hee made the ſcourge, and drave them out, and though without all queſtion they deſerved many too; Next ſay wee, that put the caſe he ſmote them, yet is he not a [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] ſuch a ſtriker as the Text condemnes, for this he did <hi>[authoritative,]</hi> by vertue of his rule, and power, and Magiſtracy, which hee had over the houſe of God; others now that offend againſt the Text, for being ſtrikers, offend in this, becauſe they have no
+<pb n="44" facs="tcp:58484:28"/> lawfull calling, or warrant, for the ſame, to bee done by them.</p>
+            <p>Tenthly, hee muſt be [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] not covetous or greedy after filthy lucre, having his minde addicted to, and peſter'd with [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] the worlds cankering cares, but he muſt be <hi>[cale deditus,</hi>
+               <note place="margin">
+                  <hi>Col.</hi> 3.2.</note>] a man that mindes the things of God, <hi>ſetting his affections on things that are above, and not on things that are below.</hi> And how juſtly (I pray) for application, may our bleſſed Saviour be ſaid to be a Biſhop in this kinde?<note place="margin">
+                  <hi>Mat.</hi> 4.10.</note> Oh how infinitely did he ſlight the world, and the glory of it, when Sathan aſſaulted him therewith?<note place="margin">
+                  <hi>Mat.</hi> 24.2.</note> what diſeſteeme againe had he of thoſe buildings that the Diſciples ſhewed him? how mightily alſo doth he diſreſpect the title, of being a King here, when the people would have taken him by force, and have made him King?<note place="margin">
+                  <hi>Ioh.</hi> 6.15.</note> yea in a word; he is ſo abſolute a Biſhop, in this nature alſo abandoning filthy lucre, and all covetous de<g ref="char:EOLhyphen"/>ſires, and ſetling his minde, wholly to doe his fathers will, and not looking after the affaires of this world; as that hee ſaith of himſelfe, [though foxes have holes, and birds have neſts, <hi>yet the ſon of man hath not where to lay his head.</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 8.20.</note>]</p>
+            <p>Eleventhly, or the eleventh qualification of a Biſhop is, hee muſt be [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,] patient, of an enduring nature, one whoſe endowment of vertuous diſpoſition, can make a grave at any time, to bury contumelious calumnies. And ſuch a one for ap<g ref="char:EOLhyphen"/>plication, was our bleſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d <hi>Ieſus</hi> too, who when the Souldiers ſtript him, and put upon him a ſcarlet robe, when they platted a crowne of thornes, and put it on his head, when againe, out of mockery they put a reed in his right hand, bowing the knee before him,<note place="margin">
+                  <hi>Mat.</hi> 27.28, 29, 30, 34.</note> and ſaying <hi>[haile King of the Iewes,]</hi> when they ſpit upon him, and alſo ſmote him on the head, when laſtly, they dragg'd him and led him away to be crucified, and in his torment, gave him Vinegar, mingled with gall to drinke, oh how patient (notwithſtanding all theſe affronts) doth he carry himſelfe continually? yea ſo patient, as the Prophet <hi>Iſaiah</hi> ſaith of him, that as a ſheepe before the ſhearers is dumb, ſo opened he not his mouth.<note place="margin">
+                  <hi>Jſa.</hi> 53.9.</note>
+            </p>
+            <p>Twelfthly, hee muſt bee [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,] no brawler, uſing al<g ref="char:EOLhyphen"/>wayes the language of <hi>Canaan,</hi> and utterly deteſting the lan<g ref="char:EOLhyphen"/>guage of <hi>Aſhdod.</hi> Which vertuous qualification now (my bre<g ref="char:EOLhyphen"/>thren)
+<pb n="45" facs="tcp:58484:28"/> moſt apparently appeared in our bleſſed Biſhop <hi>Ieſus,</hi> who as our Apoſtle witneſſeth of him, when hee was reviled,<note place="margin">1 <hi>Pet.</hi> 2.23.</note> reviled not againe, when he ſuffer'd he threatned not, but com<g ref="char:EOLhyphen"/>mitted himſelfe to him that judgeth righteouſly.</p>
+            <p>Thirteenthly, and laſtly, he muſt be [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] one that ruleth his owne houſe well, having his children in ſubje<g ref="char:EOLhyphen"/>ction with al gravitie. And ſuch a Biſhop alſo was our heaven<g ref="char:EOLhyphen"/>ly Saviour, who though out of the number of his Diſciples he loſt a <hi>Iudas,</hi>
+               <note place="margin">
+                  <hi>A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ts</hi> 1.2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> yet he had the reſt of his houſe in ſuch very good ſubjection, as that in his roome and ſtead he had <hi>Matthias</hi> a better ſervant. Yea in a word, his oeconomie was ſo ſeconded with ſuch care and vigilancy, as that he profeſſeth of all his houſehold, that they had all the markes of a well governed, and of a well orderd family, as that <hi>viz.</hi> they heard his voyce,<note place="margin">
+                  <hi>Joh.</hi> 10.27.</note> and that they knew him, and that they followed him; ſufficient teſtimonies of a right diſpoſed family.</p>
+            <p>Furthermore to adde one thing more, and yet no more then needs, wee ſay this further, that as our bleſſed Saviour was an abſolute reall and a perfect Biſhop, not only becauſe all the ſig<g ref="char:EOLhyphen"/>nifications of the word [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which ſignifies a Biſhop,<note place="margin">Laſtly, our bleſſed Sa<g ref="char:EOLhyphen"/>viour was an abſolute Biſhop, in that hee uſeth for the good of his Dioceſſe all the comfortable agents that ever were uſed in any.</note>] were both verified in him, and of him; and alſo becauſe all the qualifications of a Biſhop, according to the relation of the Holy Ghoſt, in that caſe provided, were found upon him in like manner, but farther alſo doe we ſay in admiration of our Savi<g ref="char:EOLhyphen"/>ours Epiſcopacy, and alſo by way of conſolation to the whole Dioceſſe of the world, we meane his Saints, his flock, his belo<g ref="char:EOLhyphen"/>ved Church and Spouſe that he was a Biſhop too; for his ha<g ref="char:EOLhyphen"/>ving and for his ſending in, and to, and throughout all his Dioceſſe, all the comfortable agents or agents of comfort, that can any wayes bee beneficiall or advantagious thereunto. Which agents of comfort (if I may ſpeake ſo comparatively,) are as many as any good Biſhop hath in any Dioceſſe of the world.<note place="margin">The firſt a<g ref="char:EOLhyphen"/>gent of comfort which our Biſhop uſ<g ref="char:EOLhyphen"/>eth through the whole Dioceſſe of his flocke. <hi>Joh.</hi> 16 7.</note>
+            </p>
+            <p>Firſt, then the firſt agent of comfort that our ſacred and bleſſed Biſhop hath, and which alſo he did promiſe to ſend unto the whole Dioceſſe of his flock for their government and con<g ref="char:EOLhyphen"/>ſolation is, and alſo was <hi>[ſpiritus conſolatorius]</hi> the great and bleſſed comforter, of whom our bleſſed Biſhop ſaid thus (name<g ref="char:EOLhyphen"/>ly) that he would not come, till he did depart and ſend him.</p>
+            <pb n="46" facs="tcp:58484:29"/>
+            <p>This <hi>[ſpiritus conſolatorius]</hi> this great and bleſſed comfor<g ref="char:EOLhyphen"/>ter now being to come [by the Biſhops Miſſion] to the whole ſociety of the faithfull, to Chriſts beloved flocke, our Saviour relates of him again, that for the benefit of Gods people hee would performe and looke unto three principall and materiall points very neceſſary for the guidance of the whole Church of God.</p>
+            <list>
+               <item>
+                  <note place="margin">
+                     <hi>Ioh</hi> 16.8.</note>1. Firſt, that he would <hi>[reprehendere peccata,]</hi> reprove them of their ſinnes. For tis impoſſible that Gods people can ſee their errours till GODS Spirit doe re<g ref="char:EOLhyphen"/>prove them.</item>
+               <item>
+                  <note place="margin">
+                     <hi>Job.</hi> 16.13.</note>2. Secondly, that he would <hi>[gubernare illos in veritatem]</hi> guide them and lead them into all the truth of God. For how can it be otherwiſe but that ſinfull fleſh muſt erre, ſhould it not be guided by the Spirit of grace?</item>
+               <item>
+                  <note place="margin">
+                     <hi>Ioh.</hi> 16.15.</note>3. Thirdly, that hee would <hi>[demonſtrare quae facienda,]</hi> teach them and ſhew them what things they were to doe. For how ſhould Chriſts Schollers learne to performe Chriſts will, ſhould not the bleſſed Spirit their Schoole-Maſter teach them their Chriſt-croſſe-row?</item>
+            </list>
+            <p>And thus [my brethren] and in theſe reſpects doth <hi>[ſpiri<g ref="char:EOLhyphen"/>tus conſolatorius]</hi> the ſacred and bleſſed comforter to the whole Epiſcopall juriſdiction, peculiar, charge and cure of Chriſt, and to every parcell and member of the ſame, (if under favour I may ſo ſay without offence to any, and without ſuſpition of blaſphemy) <hi>[tanquam conſolatorius cancellarius,]</hi> as a moſt lov<g ref="char:EOLhyphen"/>ing and carefull Chancellour, glorifying our Biſhop Ieſus Chriſt, bleſſed for evermore, and alſo ſhewing whatſoever he received to his bleſſed flock, of the which we may comfortab<g ref="char:EOLhyphen"/>ly read at large, <hi>John</hi> 16.14</p>
+            <p>
+               <note place="margin">The ſecond agent of comfort that Chriſt o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r Biſho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſeth in his Dioceſſe is the holy Scriptures. 1 <hi>Ioh.</hi> 2.1, 2.</note>Secondly, or the ſecond agent of comfort that our Biſhop hath for his Church, are <hi>[ſacrae Scripturae]</hi> even the holy and ſacred Scriptures, which (if I may be ſo bold to uſe the phraſe) like faithfull ſuffraganes or ſurrogates, are ſupporters and hel<g ref="char:EOLhyphen"/>pers to the Biſhops flock. For inſtance ſake, when any woun<g ref="char:EOLhyphen"/>ded conſcience is terribly skared with the affright of ſin, then ſpeak <hi>Chriſts</hi> ſuffraganes, even the holy Scriptures, <hi>viz.</hi> that we
+<pb n="47" facs="tcp:58484:29"/> have an Advocate with the Father, Ieſus Chriſt the righteous, and he is the propitiation for all our ſins.<note place="margin">
+                  <hi>Rom</hi> 8.1.</note> If again death and damnation tell us wee are damn'd, then ſpeake Chriſts ſuffra<g ref="char:EOLhyphen"/>ganes, even the bleſſed Scriptures, (namely,) that there is no <hi>condemnation to them that are in Chriſt Ieſus.</hi> In a word, when Sathan ſets upon any within the juriſdiction of our Biſhops See, telling them they are but loſt ſheep and under the ſhad<g ref="char:EOLhyphen"/>dow of death, then ſpeake Chriſts ſuffraganes, even the ſuppor<g ref="char:EOLhyphen"/>ters of his poore flocke, that they are delivered from the power of darkeneſſe and <hi>tranſlated into the kingdome of Gods deare Son.</hi>
+               <note place="margin">
+                  <hi>Col.</hi> 1.13.</note>
+            </p>
+            <p>Thirdly,<note place="margin">The third agent of comfort which our Biſho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> uſeth in his Dioceſſe for to comfort his people withall is his regiſter book.</note> or the third agent of comfort that our Biſhop hath for to ſupport, aid and comfort his little flock the Church, is <hi>[Regeſtum]</hi> his Regiſter booke, wherein heavens records are moſt purely kept and preſerved, and this Regiſter book, I hope without any offence either to the Biſhop of our ſoules, or elſe to any of his beloved ſheepe of his bleſſed Paſture, may be ad<g ref="char:EOLhyphen"/>judged of us to be <hi>[liber vitae,]</hi> the book of life. Which Regi<g ref="char:EOLhyphen"/>ſter book of our bleſſed Biſhop (that I may ſpeak all in a word) is extraordinarily helpfull and comfortable to the whole Dio<g ref="char:EOLhyphen"/>ceſſe, I meane, to all Chriſts Saints that are members of the ſame, and that for theſe three reaſons following.</p>
+            <list>
+               <item>1. Becauſe all Chriſts Lambs, all his deare Saints, all the ſheepe of his Paſture, yea all that love him and are la<g ref="char:EOLhyphen"/>bourers in his ſacred Goſpell, have their names there recorded, <hi>Phil</hi> 4.3.</item>
+               <item>2. Becauſe their names being once there entred, they ſhal never be cancelled out, they ſhall never be obli<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>era<g ref="char:EOLhyphen"/>ted, but Chriſt will confeſſe them before his Father,<note place="margin">
+                     <p>The fourth agent of comfort which Chriſt hath in his D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>o<g ref="char:EOLhyphen"/>ceſſe are his powerfull proctors, <hi>v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>z.</hi>
+                     </p>
+                     <p>His ſuffer<g ref="char:EOLhyphen"/>ings and temptations which ſol<g ref="char:EOLhyphen"/>licits his Churches cauſe.</p>
+                  </note> and before his Angels, <hi>Rev.</hi> 3.5.</item>
+               <item>3. Laſtly, becauſe they ſhal be adjudged, and becauſe they ſhall have ſentence paſt upon them, by their ſoule-ſa<g ref="char:EOLhyphen"/>ving Biſhop, according to the records that are found therein, <hi>Rev.</hi> 20.12.</item>
+            </list>
+            <p>Fourthly, or the fourth ſort of comfortable agents, that our Biſhop hath for to ſpeake for his Church and flock are <hi>[procu<g ref="char:EOLhyphen"/>ratores,]</hi> are his powerfull Proctou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, which [my brethren] under him, (he being the grand Advocate of heaven and earth) doe continually in the preſence of his Father ſollicite his
+<pb n="48" facs="tcp:58484:30"/> Churches cauſe, and theſe <hi>[procuratores,]</hi> theſe powerfull Pro<g ref="char:EOLhyphen"/>ctors are generally two. <hi>viz.</hi>
+               <list>
+                  <item>1. <hi>Sanguis &amp; paſſiones,</hi> his bloud and ſufferings.</item>
+                  <item>2. <hi>Temptationes,</hi> his Temptations which hee endured when he was on earth.</item>
+               </list>
+            </p>
+            <p>Firſt, I ſay againe the firſt Proctour that the Biſhop of our ſoules the grand Advocate of heaven and earth,<note place="margin">The firſt proctour to ſollicite Chriſts Churches cauſe is his ſufferings.</note> hath for to ſol<g ref="char:EOLhyphen"/>licite his Churches cauſe in the preſence of the eternall Father, is <hi>[ſanguis &amp; paſſiones,]</hi> is his bloud and ſufferings. Oh his death and Paſſion (my brethren) is a powerfull pleader, in the eares of the great Iudge; yea their pleadings and ſollicitations are ſo full of power and truth, that they prevaile with the eter<g ref="char:EOLhyphen"/>nall Father to commiſerate his oppreſſed Church; and there<g ref="char:EOLhyphen"/>upon ſaith the bleſſed Spirit (ſpeaking of the efficacy of our Saviours bloud) namely,<note place="margin">
+                  <hi>Heb.</hi> 12.24.</note> 
+               <hi>that his bloud ſpeaketh better things for us then that of Abel.</hi> Yea and againe, <hi>Heb.</hi> 9.13, 14. <hi>If the bloud of Bulls and Goates, and the aſhes of an Heifer ſprink<g ref="char:EOLhyphen"/>ling the uncleane ſanctifieth to the purifying of the fleſh,</hi> ô how much more ſhall the bloud of Chriſt, who through the eternall ſpirit offered himſelfe <hi>without ſpot to God, purge your conſciences from dead workes to ſerve the living God?</hi>
+            </p>
+            <p>
+               <note place="margin">The ſecond proctour to ſollicite Ch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſts Churches cauſe is his temptations</note>Secondly, or the ſecond Proctour that the Biſhop of our ſoules hath for to ſollicite his Churches cauſe in the preſence of the eternall Iudge is <hi>[temptationes,]</hi> is his temptations that he endured for us, when hee was on earth. Oh my brethren, as his wounds plead for us, that we may be made whole, as his ſtripes plead for us, that wee may not bee beaten, as his ſhame pleades for us that we may enjoy honour, ſo his temp<g ref="char:EOLhyphen"/>tations plead for us that wee may not bee tempted above our ſtrength, but that we may have through his merits an happie iſſue out of all: according to the ſaying of the ſacred Spirit (namely) <hi>In that he himſelfe hath ſuffered being tempted, he is able to ſuccour them that are tempted.</hi>
+               <note place="margin">
+                  <hi>Heb.</hi> 2.18.</note>
+            </p>
+            <p>Laſtly, or the laſt agents that our Biſhop uſeth for the good of his Church and flocke,<note place="margin">The laſt a<g ref="char:EOLhyphen"/>gents of comfort for Chriſts dioceſſe, are the Appari<g ref="char:EOLhyphen"/>tours hee uſeth.</note> are <hi>[Apparitores,]</hi> are his Appari<g ref="char:EOLhyphen"/>tours, whoſe office it is to ſummon all his flock, to appeare be<g ref="char:EOLhyphen"/>fore him, either in the Court of conſcience here, where hee ſits as chiefe, or in the great Court of Heaven hereafter, where he ſits as Iudge.</p>
+            <pb n="49" facs="tcp:58484:30"/>
+            <p>And theſe Apparitors in the generall we finde to be three.<note place="margin">The three Appari<g ref="char:EOLhyphen"/>tours w<hi rend="sup">ch</hi> our Biſhop uſeth for to ſummon al his Dio<g ref="char:EOLhyphen"/>ceſſe to appeare before him</note>
+            </p>
+            <list>
+               <item>1. <hi>Reprehenſio Sanctorum,</hi> the due reproofe of his Saints.</item>
+               <item>2. <hi>Caſtigatio filiorum,</hi> the chaſtiſements he ſends his ſons.</item>
+               <item>3. <hi>Vox tubae ultimae,</hi> the ſound of the laſt Trump.</item>
+            </list>
+            <p>The 2. firſt of theſe ſummon our Biſhops flock to appeare be<g ref="char:EOLhyphen"/>fore him in the Court of conſcience here, wherupon they make a conſcience of their lives to come; and the third which we may call <hi>[Apparitor Apparitorum,]</hi> to wit, the great and gene<g ref="char:EOLhyphen"/>rall Apparitor of all, (namely) <hi>vox tubae ultimae, the ſound of the laſt Trumpet,</hi> ſummons them to appeare at the great Court of Heaven hereafter to heare then their judgment that ſhall laſt for ever.</p>
+            <p>Firſt, then againe I ſay the firſt Apparitor<note place="margin">The firſt Appari<g ref="char:EOLhyphen"/>tour.</note> that our Biſhop uſeth to ſummon his flock that they may appeare before him in the Court of Conſcience here where he ſits as chiefe, is <hi>[repre<g ref="char:EOLhyphen"/>henſio Sanctorum]</hi> is the due reproofe of his Saints. Witneſſe that one example for all, namely,<note place="margin">
+                  <hi>Acts</hi> 2.41.</note> our Apoſtles three thouſand ſoules, who ſometimes were ranke geerers of our Biſhop and his Goſpell too; Oh my brethren, for illuſtration hereof what I pray made thoſe madde <hi>Cretians</hi> at the firſt, to appeare ſuch good Chriſtians at the laſt? what ſummoned them now to ap<g ref="char:EOLhyphen"/>peare in the Court of conſcience, and that before him whom they had contemn'd and ſcorn'd, when before, all their life time, they made no conſcience of what they did at all?<note place="margin">
+                  <hi>ver.</hi> 12 13.</note> What makes them to appeare now full of ſobs, who before were full of ſcornes? what drawes now teares from their eyes, ſorrow from their hearts, and lamentation from their cheekes, becauſe they had been ſo rebellious againſt the Biſhop of their ſoules, ſo long, but even <hi>[reprehenſio apoſtolica,]</hi> the Apoſtles due re<g ref="char:EOLhyphen"/>proofe, wherein he tells them,<note place="margin">
+                  <hi>Acts</hi> 2.23.</note> 
+               <hi>that they had taken and crucifi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d and ſlaine the Lord of life?</hi> this done, and the reproofe being ſerv'd upon them thus, Oh how penitent doe they appeare ſtraightway, when as before they had made their faces harder then a rocke? how are they prick't in heart now who before had hearts of flint? Yea,<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cts</hi> 2.41.</note> ô how gladly doe they receive the Biſhops charge and directions too, though before they were meere enemies to all grace and piety? Certainely (my bre<g ref="char:EOLhyphen"/>thren) now the Biſhops proceſſe being thus ſerv'd upon them, (as we ſee) and they readily appearing in the Court of conſci<g ref="char:EOLhyphen"/>ence,
+<pb n="50" facs="tcp:58484:31"/> doe minde now nothing more than to make a conſcience of their lives to come, continuing as the Text ſaith, ſtedfaſtly in the Apoſtles doctrine and fellowſhip, and in breaking of bread and in prayer.<note place="margin">
+                  <hi>verſe</hi> 42.</note>
+            </p>
+            <p>
+               <note place="margin">The ſecond Apparitour.</note>Secondly, or the ſecond Apparitor that our biſhop uſeth over his flock whereby he ſummoneth them to appeare before him in the Court of conſcience here, is <hi>[caſtigatio filiorum,]</hi> the chaſtiſements which he ſends his ſons, and whereby he makes them fit members of his myſticall body. Thus was <hi>David</hi> ſum<g ref="char:EOLhyphen"/>mon'd to appeare at the Court of conſcience, and before too the great Biſhop of his ſoule, when there dyed even from <hi>Dan</hi> to <hi>Beerſheba,</hi>
+               <note place="margin">2 <hi>Sam.</hi> 24.15, 17.</note> and that within the compaſſe of three dayes, ſe<g ref="char:EOLhyphen"/>venty thouſand men, for as we reade, <hi>when the moſt bitter judg<g ref="char:EOLhyphen"/>ments of God were upon him, and his people, and when hee had uſed little conſcience indeed, in diſtruſting the arme of Heaven and truſt<g ref="char:EOLhyphen"/>ing upon the arme of fleſh, and when he ſaw the Angel that ſmote the people;</hi> then he cryed out and ſaid, <hi>[peccavi,] I have ſinned, I have done wickedly, but theſe ſheep what have they done? O let thine hand I pray thee,</hi> (ſaith he) <hi>againſt be me and againſt my fathers houſe.</hi> Here Gods chaſtiſements wee ſee are an effectuall ſummons, which brings <hi>David</hi> to appeare at the Court of Conſcience; and now what good uſe he makes thereof, let the text be judge, for he ſaith after the hand of God was upon him, and after hee had made his appearance in the Court of conſcience,<note place="margin">
+                  <hi>Pſal.</hi> 119.71</note> 
+               <hi>that it was good for him that he had beene in trouble, that he might learne Gods ſtatutes, for before he was afflicted,</hi> as he confeſſeth, again, <hi>he went wrong,</hi>
+               <note place="margin">
+                  <hi>verſe</hi> 6.7.</note> 
+               <hi>but now he hath kept Gods word.</hi> A ſecond inſtance wee have in the children of <hi>Jſrael,</hi> what I pray ſummons them, to appeare before the <hi>Lord</hi> in <hi>Mizpeth:</hi> and to come to the Court of conſcience and to cry [<hi>peccavi?</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Sam.</hi> 7.6.</note>] Oh my brethren, was it not <hi>[digitus Dei?]</hi> was it not the finger of God? was it not Gods chaſtiſements on them? when he ſuffered the <hi>Phi<g ref="char:EOLhyphen"/>liſtines</hi> to kill of them in battel about foureſcore thouſand men?<note place="margin">2 <hi>Sam.</hi> 4.2.</note> Yea in a word,<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ab</hi> 3.6.</note> what made <hi>Ninevi</hi> that great City to appeare, in ſackcloth and aſhes? <hi>Shechaniah</hi> to be aſham'd and bluſh? Yea <hi>Daniel</hi> to cry [<hi>wee have ſinned,</hi>
+               <note place="margin">
+                  <hi>Ezra.</hi> 9.6.</note> 
+               <hi>wee have done wickedly wee have committed iniquity, and have rebell'd againſt thee?</hi>] unleſſe it were [<hi>caſtigationes &amp; afflictiones,</hi>
+               <note place="margin">
+                  <hi>Dan.</hi> 9.5.</note>] Gods chaſtiſements and ſcourge upon them, which made them at length to give appea<g ref="char:EOLhyphen"/>rance
+<pb n="51" facs="tcp:58484:31"/> in the Court of conſcience and to returne <hi>unto the Shep<g ref="char:EOLhyphen"/>heard and Biſhop of their ſoules.</hi>
+            </p>
+            <p>Laſtly, the laſt Apparitour that our Biſhop uſeth for the good and comfort of his flock, and which we call the great and ge<g ref="char:EOLhyphen"/>nerall Apparitour over all, is <hi>[vox tubae ultimae]</hi> the ſound of the laſt Trumpet. Both Sea and Land ſhall heare its ſummons fully, for to make their apparance at the great Court of the laſt judgment day, according to the ſaying of our bleſſed Savi<g ref="char:EOLhyphen"/>our, (to wit,) <hi>Behold, I ſhew you a myſtery, we ſhall not all ſleepe,</hi>
+               <note place="margin">1 <hi>Cor.</hi> 15.51 52.</note> 
+               <hi>but we ſhall all be changed, in a moment, in the twinckling of an eye, at the laſt Trump, for the Trumpet ſhal ſound, and the dead ſhall be raiſed incorruptible, and we ſhall be changed.</hi>
+               <note place="margin">
+                  <hi>Ezek</hi> 37 5, 6.</note> Then ſhall <hi>Ezekiels dry bones hearing this ſound and ſummons,</hi> receave breath againe, and ſinewes, and fleſh and skin ſhall cover them, and they ſhall live. Then ſhal the graves yeeld up their dead, and duſt &amp; aſhes ſhall then live again. Rottenneſſe in decayed nature then ſhall receive ſtrength, and old aged mortality ſhall learne then to be come immortall. The deafe alſo then at this ſummons ſhall have a quick eare, and willing or nilling ſhall appeare at the great Court<g ref="char:punc">▪</g> Thus all men (my brethren) upon this laſt ſum<g ref="char:EOLhyphen"/>mons ſhall give their attendance, waiting the judgment of the great judge, who in our Text here is called the Shepheard and Biſhop of our ſoules.</p>
+            <p>And now to conclude in briefe, and that we may make our ſelves ready for his ſecond comming,<note place="margin">1 <hi>Theſ.</hi> 5.23</note> I will make that prayer for us all, which once Saint <hi>Paul</hi> made for the <hi>Theſſalonians (viz.)</hi> now the very God of Peace ſanctifie us wholly, and I pray God our whole ſpirits and ſoules and bodies may be preſerved blameleſſe, unto the comming of our <hi>Lord Jeſus Chriſt,</hi> unto judgment, who (as our Apoſtle tells us in the Text) <hi>is the great Shepheard and Biſhop of our ſoules.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <p>PAge 6. line 19. for are read care, <hi>p</hi> 6 <hi>l.</hi> 2 r. for ſtrait <hi>r.</hi> ſtray, <hi>p</hi> 11. <hi>l.</hi> 24. for this <hi>r</hi> thus <hi>p.</hi> 14. <hi>l.</hi> 12. for that, <hi>r.</hi> the <hi>p.</hi> 15. <hi>l.</hi> 26. for ſhould <hi>r.</hi> ſhouldſt, <hi>p.</hi> 19. <hi>l.</hi> 15. for actions, <hi>r.</hi> action, <hi>p.</hi> 24. <hi>l.</hi> 4. for prophane, <hi>r.</hi> perchance, <hi>p.</hi> 24. <hi>l</hi> 11. for babling, <hi>r.</hi> bubling, <hi>p.</hi> 38. <hi>l.</hi> 34. for ſaying, <hi>r.</hi> ſa th, <hi>p.</hi> 39. <hi>l.</hi> 13. for this, <hi>r.</hi> his.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
